@@ -1,21 +1,14 @@
 {
-  "city-south": [
-    "dahntahn-downtown",
-    "north-side",
-    "oakland",
-    "the-steel-valley",
-    "south-hills"
-  ],
   "dahntahn-downtown": [
-    "city-south",
     "north-side",
     "bloomfield-strip-lawrenceville",
-    "oakland"
+    "oakland",
+    "city-south"
   ],
   "north-side": [
-    "city-south",
     "dahntahn-downtown",
     "bloomfield-strip-lawrenceville",
+    "city-south",
     "millvale-and-28",
     "bellevue-westview-ross",
     "great-scott",
@@ -36,16 +29,24 @@
     "millvale-and-28"
   ],
   "oakland": [
-    "city-south",
     "dahntahn-downtown",
     "bloomfield-strip-lawrenceville",
     "squirrelside",
+    "city-south",
     "the-steel-valley"
   ],
+  "city-south": [
+    "dahntahn-downtown",
+    "north-side",
+    "oakland",
+    "the-steel-valley",
+    "great-scott",
+    "south-hills"
+  ],
   "the-steel-valley": [
-    "city-south",
     "squirrelside",
     "oakland",
+    "city-south",
     "the-old-east",
     "mckeesport-whiteoak",
     "south-hills",
@@ -63,14 +64,21 @@
     "the-steel-valley",
     "the-old-east",
     "monroeville-plum-murrysville",
+    "greensburg-and-westmoreland",
     "south-park-and-surrounding",
     "mon-valley"
   ],
   "monroeville-plum-murrysville": [
     "the-old-east",
     "mckeesport-whiteoak",
-    "oakmont-springdale",
-    "greensburg-and-westmoreland"
+    "greensburg-and-westmoreland",
+    "upper-allegheny",
+    "oakmont-springdale"
+  ],
+  "greensburg-and-westmoreland": [
+    "mckeesport-whiteoak",
+    "monroeville-plum-murrysville",
+    "mon-valley"
   ],
   "foxchapel-and-mrc": [
     "millvale-and-28",
@@ -79,9 +87,9 @@
     "bellevue-westview-ross"
   ],
   "upper-allegheny": [
+    "monroeville-plum-murrysville",
     "oakmont-springdale",
     "gibsonia-wexford-northpark",
-    "greensburg-and-westmoreland",
     "butler-and-north"
   ],
   "millvale-and-28": [
@@ -99,8 +107,7 @@
     "foxchapel-and-mrc",
     "upper-allegheny",
     "millvale-and-28",
-    "gibsonia-wexford-northpark",
-    "greensburg-and-westmoreland"
+    "gibsonia-wexford-northpark"
   ],
   "cranberry-and-friends": [
     "north-by-northwest",
@@ -130,8 +137,14 @@
     "gibsonia-wexford-northpark",
     "robinson-moon-rocks"
   ],
+  "butler-and-north": [
+    "upper-allegheny",
+    "cranberry-and-friends",
+    "gibsonia-wexford-northpark"
+  ],
   "great-scott": [
     "north-side",
+    "city-south",
     "south-hills",
     "south-park-and-surrounding",
     "robinson-moon-rocks",
@@ -151,7 +164,7 @@
     "settlers-cabin-and-beyond",
     "mon-valley",
     "canonsburg",
-    "i70-no-mons-land"
+    "washington"
   ],
   "robinson-moon-rocks": [
     "north-side",
@@ -168,35 +181,18 @@
   ],
   "mon-valley": [
     "mckeesport-whiteoak",
+    "greensburg-and-westmoreland",
     "south-park-and-surrounding",
-    "i70-no-mons-land",
-    "greensburg-and-westmoreland"
+    "washington"
   ],
   "canonsburg": [
     "south-park-and-surrounding",
     "settlers-cabin-and-beyond",
-    "i70-no-mons-land",
-    "washington"
-  ],
-  "i70-no-mons-land": [
-    "south-park-and-surrounding",
-    "mon-valley",
-    "canonsburg",
     "washington"
   ],
   "washington": [
-    "canonsburg",
-    "i70-no-mons-land"
-  ],
-  "greensburg-and-westmoreland": [
-    "monroeville-plum-murrysville",
-    "upper-allegheny",
-    "oakmont-springdale",
-    "mon-valley"
-  ],
-  "butler-and-north": [
-    "upper-allegheny",
-    "cranberry-and-friends",
-    "gibsonia-wexford-northpark"
+    "south-park-and-surrounding",
+    "mon-valley",
+    "canonsburg"
   ]
 }
