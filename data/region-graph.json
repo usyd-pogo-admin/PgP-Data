@@ -9,10 +9,10 @@
     "dahntahn-downtown",
     "bloomfield-strip-lawrenceville",
     "city-south",
-    "millvale-and-28",
-    "bellevue-westview-ross",
     "great-scott",
-    "robinson-moon-rocks"
+    "robinson-moon-rocks",
+    "bellevue-westview-ross",
+    "millvale-and-28"
   ],
   "bloomfield-strip-lawrenceville": [
     "dahntahn-downtown",
@@ -78,69 +78,8 @@
   "greensburg-and-westmoreland": [
     "mckeesport-whiteoak",
     "monroeville-plum-murrysville",
+    "upper-allegheny",
     "mon-valley"
-  ],
-  "foxchapel-and-mrc": [
-    "millvale-and-28",
-    "oakmont-springdale",
-    "gibsonia-wexford-northpark",
-    "bellevue-westview-ross"
-  ],
-  "upper-allegheny": [
-    "monroeville-plum-murrysville",
-    "oakmont-springdale",
-    "gibsonia-wexford-northpark",
-    "butler-and-north"
-  ],
-  "millvale-and-28": [
-    "north-side",
-    "bloomfield-strip-lawrenceville",
-    "squirrelside",
-    "the-old-east",
-    "foxchapel-and-mrc",
-    "oakmont-springdale",
-    "bellevue-westview-ross"
-  ],
-  "oakmont-springdale": [
-    "the-old-east",
-    "monroeville-plum-murrysville",
-    "foxchapel-and-mrc",
-    "upper-allegheny",
-    "millvale-and-28",
-    "gibsonia-wexford-northpark"
-  ],
-  "cranberry-and-friends": [
-    "north-by-northwest",
-    "gibsonia-wexford-northpark",
-    "butler-and-north"
-  ],
-  "north-by-northwest": [
-    "cranberry-and-friends",
-    "gibsonia-wexford-northpark",
-    "bellevue-westview-ross",
-    "robinson-moon-rocks"
-  ],
-  "gibsonia-wexford-northpark": [
-    "foxchapel-and-mrc",
-    "upper-allegheny",
-    "oakmont-springdale",
-    "cranberry-and-friends",
-    "north-by-northwest",
-    "bellevue-westview-ross",
-    "butler-and-north"
-  ],
-  "bellevue-westview-ross": [
-    "north-side",
-    "foxchapel-and-mrc",
-    "millvale-and-28",
-    "north-by-northwest",
-    "gibsonia-wexford-northpark",
-    "robinson-moon-rocks"
-  ],
-  "butler-and-north": [
-    "upper-allegheny",
-    "cranberry-and-friends",
-    "gibsonia-wexford-northpark"
   ],
   "great-scott": [
     "north-side",
@@ -168,16 +107,79 @@
   ],
   "robinson-moon-rocks": [
     "north-side",
-    "north-by-northwest",
-    "bellevue-westview-ross",
     "great-scott",
-    "settlers-cabin-and-beyond"
+    "settlers-cabin-and-beyond",
+    "north-by-northwest",
+    "bellevue-westview-ross"
   ],
   "settlers-cabin-and-beyond": [
     "great-scott",
     "south-park-and-surrounding",
     "robinson-moon-rocks",
     "canonsburg"
+  ],
+  "cranberry-and-friends": [
+    "north-by-northwest",
+    "gibsonia-wexford-northpark",
+    "butler-and-north"
+  ],
+  "north-by-northwest": [
+    "robinson-moon-rocks",
+    "cranberry-and-friends",
+    "gibsonia-wexford-northpark",
+    "bellevue-westview-ross"
+  ],
+  "gibsonia-wexford-northpark": [
+    "cranberry-and-friends",
+    "north-by-northwest",
+    "bellevue-westview-ross",
+    "butler-and-north",
+    "foxchapel-and-mrc",
+    "upper-allegheny",
+    "oakmont-springdale"
+  ],
+  "bellevue-westview-ross": [
+    "north-side",
+    "robinson-moon-rocks",
+    "north-by-northwest",
+    "gibsonia-wexford-northpark",
+    "foxchapel-and-mrc",
+    "millvale-and-28"
+  ],
+  "butler-and-north": [
+    "cranberry-and-friends",
+    "gibsonia-wexford-northpark",
+    "upper-allegheny"
+  ],
+  "foxchapel-and-mrc": [
+    "gibsonia-wexford-northpark",
+    "bellevue-westview-ross",
+    "millvale-and-28",
+    "oakmont-springdale"
+  ],
+  "upper-allegheny": [
+    "monroeville-plum-murrysville",
+    "greensburg-and-westmoreland",
+    "gibsonia-wexford-northpark",
+    "butler-and-north",
+    "oakmont-springdale"
+  ],
+  "millvale-and-28": [
+    "north-side",
+    "bloomfield-strip-lawrenceville",
+    "squirrelside",
+    "the-old-east",
+    "bellevue-westview-ross",
+    "foxchapel-and-mrc",
+    "oakmont-springdale"
+  ],
+  "oakmont-springdale": [
+    "the-old-east",
+    "monroeville-plum-murrysville",
+    "gibsonia-wexford-northpark",
+    "foxchapel-and-mrc",
+    "upper-allegheny",
+    "millvale-and-28"
   ],
   "mon-valley": [
     "mckeesport-whiteoak",
