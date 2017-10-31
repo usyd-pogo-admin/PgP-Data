@@ -10,23 +10,24 @@
     "bloomfield-strip-lawrenceville",
     "city-south",
     "great-scott",
-    "robinson-moon-rocks",
+    "wild-west",
     "bellevue-westview-ross",
-    "millvale-and-28"
+    "millvale-and-mrc"
   ],
   "bloomfield-strip-lawrenceville": [
     "dahntahn-downtown",
     "north-side",
     "squirrelside",
     "oakland",
-    "millvale-and-28"
+    "millvale-and-mrc"
   ],
   "squirrelside": [
     "bloomfield-strip-lawrenceville",
     "oakland",
     "the-steel-valley",
     "the-old-east",
-    "millvale-and-28"
+    "millvale-and-mrc",
+    "foxchapel-and-aspinwall"
   ],
   "oakland": [
     "dahntahn-downtown",
@@ -57,8 +58,8 @@
     "the-steel-valley",
     "mckeesport-whiteoak",
     "monroeville-plum-murrysville",
-    "millvale-and-28",
-    "oakmont-springdale"
+    "oakmont-springdale",
+    "foxchapel-and-aspinwall"
   ],
   "mckeesport-whiteoak": [
     "the-steel-valley",
@@ -86,8 +87,7 @@
     "city-south",
     "south-hills",
     "south-park-and-surrounding",
-    "robinson-moon-rocks",
-    "settlers-cabin-and-beyond"
+    "wild-west"
   ],
   "south-hills": [
     "city-south",
@@ -100,23 +100,17 @@
     "mckeesport-whiteoak",
     "great-scott",
     "south-hills",
-    "settlers-cabin-and-beyond",
+    "wild-west",
     "mon-valley",
     "canonsburg",
     "washington"
   ],
-  "robinson-moon-rocks": [
+  "wild-west": [
     "north-side",
     "great-scott",
-    "settlers-cabin-and-beyond",
+    "south-park-and-surrounding",
     "north-by-northwest",
     "bellevue-westview-ross"
-  ],
-  "settlers-cabin-and-beyond": [
-    "great-scott",
-    "south-park-and-surrounding",
-    "robinson-moon-rocks",
-    "canonsburg"
   ],
   "cranberry-and-friends": [
     "north-by-northwest",
@@ -124,7 +118,7 @@
     "butler-and-north"
   ],
   "north-by-northwest": [
-    "robinson-moon-rocks",
+    "wild-west",
     "cranberry-and-friends",
     "gibsonia-wexford-northpark",
     "bellevue-westview-ross"
@@ -134,28 +128,22 @@
     "north-by-northwest",
     "bellevue-westview-ross",
     "butler-and-north",
-    "foxchapel-and-mrc",
     "upper-allegheny",
-    "oakmont-springdale"
+    "millvale-and-mrc",
+    "oakmont-springdale",
+    "foxchapel-and-aspinwall"
   ],
   "bellevue-westview-ross": [
     "north-side",
-    "robinson-moon-rocks",
+    "wild-west",
     "north-by-northwest",
     "gibsonia-wexford-northpark",
-    "foxchapel-and-mrc",
-    "millvale-and-28"
+    "millvale-and-mrc"
   ],
   "butler-and-north": [
     "cranberry-and-friends",
     "gibsonia-wexford-northpark",
     "upper-allegheny"
-  ],
-  "foxchapel-and-mrc": [
-    "gibsonia-wexford-northpark",
-    "bellevue-westview-ross",
-    "millvale-and-28",
-    "oakmont-springdale"
   ],
   "upper-allegheny": [
     "monroeville-plum-murrysville",
@@ -164,22 +152,27 @@
     "butler-and-north",
     "oakmont-springdale"
   ],
-  "millvale-and-28": [
+  "millvale-and-mrc": [
     "north-side",
     "bloomfield-strip-lawrenceville",
     "squirrelside",
-    "the-old-east",
+    "gibsonia-wexford-northpark",
     "bellevue-westview-ross",
-    "foxchapel-and-mrc",
-    "oakmont-springdale"
+    "foxchapel-and-aspinwall"
   ],
   "oakmont-springdale": [
     "the-old-east",
     "monroeville-plum-murrysville",
     "gibsonia-wexford-northpark",
-    "foxchapel-and-mrc",
     "upper-allegheny",
-    "millvale-and-28"
+    "foxchapel-and-aspinwall"
+  ],
+  "foxchapel-and-aspinwall": [
+    "squirrelside",
+    "the-old-east",
+    "gibsonia-wexford-northpark",
+    "millvale-and-mrc",
+    "oakmont-springdale"
   ],
   "mon-valley": [
     "mckeesport-whiteoak",
@@ -189,7 +182,6 @@
   ],
   "canonsburg": [
     "south-park-and-surrounding",
-    "settlers-cabin-and-beyond",
     "washington"
   ],
   "washington": [
