@@ -36,7 +36,7 @@
 		"nickname": "United Presbyterian Church (West Sunbury)"
 	},
 	"140321": {
-		"additional_information": "Do *not* stand in front of the entrance to the pet store - the owner gets upset!"
+		"additional_information": "Do **not** stand in front of the entrance to the pet store - the owner gets upset!"
 	},
 	"162104": {
 		"nickname": "Church of Christ (Brookville)"
@@ -181,6 +181,9 @@
 	},
 	"1041192": {
 		"nickname": "World War Memorial (Elliott)"
+	},
+	"1064669": {
+		"additional_information": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
 	"1095010": {
 		"additional_terms": "pool"
