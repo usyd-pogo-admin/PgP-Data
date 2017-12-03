@@ -393,10 +393,12 @@
 		"nickname": "First United Methodist Church (Brookville)"
 	},
 	"48976304": {
-		"nickname": "Sprint Store (Century III Mall)"
+		"nickname": "Sprint Store (Century III Mall)",
+		"is_sponsored": true
 	},
 	"49000737": {
-		"nickname": "Starbucks (Waterfront)"
+		"nickname": "Starbucks (Waterfront)",
+		"is_sponsored": true
 	},
 	"49020401": {
 		"nickname": "Christ Episcopal Church (Oil City)"
@@ -417,47 +419,60 @@
 		"nickname": "First Baptist Church (Transfer)"
 	},
 	"49058437": {
-		"nickname": "Starbucks (Forbes / Craig)"
+		"nickname": "Starbucks (Forbes / Craig)",
+		"is_sponsored": true
 	},
 	"49080427": {
-		"nickname": "Starbucks (Green Tree)"
+		"nickname": "Starbucks (Green Tree)",
+		"is_sponsored": true
 	},
 	"49080428": {
-		"nickname": "Starbucks (Market Square)"
+		"nickname": "Starbucks (Market Square)",
+		"is_sponsored": true
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
-		"additional_terms": "kaufmanns clock"
+		"additional_terms": "kaufmanns clock",
+		"is_sponsored": true
 	},
 	"49102838": {
-		"nickname": "Sprint Store (Oakland)"
+		"nickname": "Sprint Store (Oakland)",
+		"is_sponsored": true
 	},
 	"49102839": {
-		"nickname": "Sprint Store (Market Square)"
+		"nickname": "Sprint Store (Market Square)",
+		"is_sponsored": true
 	},
 	"49119082": {
 		"nickname": "Forbes Road (Boswell)"
 	},
 	"49188248": {
-		"nickname": "Starbucks (Siebert / McKnight)"
+		"nickname": "Starbucks (Siebert / McKnight)",
+		"is_sponsored": true
 	},
 	"49205837": {
-		"nickname": "Sprint Store (Penn Center East)"
+		"nickname": "Sprint Store (Penn Center East)",
+		"is_sponsored": true
 	},
 	"49205838": {
-		"nickname": "Sprint Store (Monroeville Mall)"
+		"nickname": "Sprint Store (Monroeville Mall)",
+		"is_sponsored": true
 	},
 	"49233728": {
-		"nickname": "Starbucks (McKnight Target)"
+		"nickname": "Starbucks (McKnight Target)",
+		"is_sponsored": true
 	},
 	"49308704": {
-		"nickname": "Sprint Store (Westmoreland Mall)"
+		"nickname": "Sprint Store (Westmoreland Mall)",
+		"is_sponsored": true
 	},
 	"49397275": {
-		"nickname": "Sprint Store (Washington)"
+		"nickname": "Sprint Store (Washington)",
+		"is_sponsored": true
 	},
 	"49397276": {
-		"nickname": "Starbucks (Washington)"
+		"nickname": "Starbucks (Washington)",
+		"is_sponsored": true
 	},
 	"49438660": {
 		"nickname": "Church of Christ (Fairview)"
@@ -466,10 +481,12 @@
 		"nickname": "Calvary Baptist Church (Waynesburg)"
 	},
 	"49548047": {
-		"nickname": "Starbucks (Canonsburg)"
+		"nickname": "Starbucks (Canonsburg)",
+		"is_sponsored": true
 	},
 	"49635912": {
-		"nickname": "Starbucks (Tarentum)"
+		"nickname": "Starbucks (Tarentum)",
+		"is_sponsored": true
 	},
 	"49404609": {
 		"additional_information": "Be prepared for a 1 hour hike to access this gym."
