@@ -128,8 +128,8 @@
     "north-by-northwest",
     "bellevue-westview-ross",
     "butler-and-north",
-    "upper-allegheny",
     "millvale-and-mrc",
+    "upper-allegheny",
     "oakmont-springdale",
     "foxchapel-and-aspinwall"
   ],
@@ -145,13 +145,6 @@
     "gibsonia-wexford-northpark",
     "upper-allegheny"
   ],
-  "upper-allegheny": [
-    "monroeville-plum-murrysville",
-    "greensburg-and-westmoreland",
-    "gibsonia-wexford-northpark",
-    "butler-and-north",
-    "oakmont-springdale"
-  ],
   "millvale-and-mrc": [
     "north-side",
     "bloomfield-strip-lawrenceville",
@@ -159,6 +152,13 @@
     "gibsonia-wexford-northpark",
     "bellevue-westview-ross",
     "foxchapel-and-aspinwall"
+  ],
+  "upper-allegheny": [
+    "monroeville-plum-murrysville",
+    "greensburg-and-westmoreland",
+    "gibsonia-wexford-northpark",
+    "butler-and-north",
+    "oakmont-springdale"
   ],
   "oakmont-springdale": [
     "the-old-east",
