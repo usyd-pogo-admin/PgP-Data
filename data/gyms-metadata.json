@@ -26,6 +26,9 @@
 	"48285": {
 		"nickname": "US Post Office (Elizabeth)"
 	},
+	"62253": {
+		"is_ex": true
+	},
 	"63409": {
 		"nickname": "US Post Office (Homer City)"
 	},
@@ -35,6 +38,9 @@
 	"121314": {
 		"nickname": "United Presbyterian Church (West Sunbury)"
 	},
+	"122481": {
+		"is_ex": true
+	},
 	"140321": {
 		"additional_information": "Do **not** stand in front of the entrance to the pet store - the owner gets upset!"
 	},
@@ -43,6 +49,9 @@
 	},
 	"166362": {
 		"nickname": "US Post Office (Indiana)"
+	},
+	"169403": {
+		"is_ex": true
 	},
 	"198016": {
 		"nickname": "First Christian Church (McKeesport)"
@@ -116,6 +125,9 @@
 	"504230": {
 		"nickname": "Baptist Church (McDonald)"
 	},
+	"526650": {
+		"is_ex": true
+	},
 	"544314": {
 		"additional_information": "This location is at Slater Funeral Home. Please be respectful of any services that may be taking place."
 	},
@@ -146,6 +158,9 @@
 	"792701": {
 		"nickname": "Holy Trinity Lutheran Church (Beaver)"
 	},
+	"803019": {
+		"is_ex": true
+	},
 	"804100": {
 		"nickname": "First Presbyterian Church (Murrysville)"
 	},
@@ -166,6 +181,9 @@
 	},
 	"859601": {
 		"nickname": "White Park (Easr Parkway)"
+	},
+	"902748": {
+		"is_ex": true
 	},
 	"924214": {
 		"nickname": "Calvary United Methodist Church (Chateau)"
@@ -220,7 +238,7 @@
 	},
 	"1207208": {
 		"nickname": "Pittsburgh Post Office (Ross)",
-		"additional_information": "Potential EX Raid gym - this gym has previously hosted EX Raids."
+		"is_ex": true
 	},
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
@@ -401,11 +419,11 @@
 	},
 	"48976304": {
 		"nickname": "Sprint Store (Century III Mall)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49000737": {
 		"nickname": "Starbucks (Waterfront)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49020401": {
 		"nickname": "Christ Episcopal Church (Oil City)"
@@ -427,59 +445,59 @@
 	},
 	"49058437": {
 		"nickname": "Starbucks (Forbes / Craig)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49080427": {
 		"nickname": "Starbucks (Green Tree)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49080428": {
 		"nickname": "Starbucks (Market Square)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
 		"additional_terms": "kaufmanns clock",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49102838": {
 		"nickname": "Sprint Store (Oakland)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49102839": {
 		"nickname": "Sprint Store (Market Square)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49119082": {
 		"nickname": "Forbes Road (Boswell)"
 	},
 	"49188248": {
 		"nickname": "Starbucks (Siebert / McKnight)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49205837": {
 		"nickname": "Sprint Store (Penn Center East)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49205838": {
 		"nickname": "Sprint Store (Monroeville Mall)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49233728": {
 		"nickname": "Starbucks (McKnight Target)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49308704": {
 		"nickname": "Sprint Store (Westmoreland Mall)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49397275": {
 		"nickname": "Sprint Store (Washington)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49397276": {
 		"nickname": "Starbucks (Washington)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49438660": {
 		"nickname": "Church of Christ (Fairview)"
@@ -489,11 +507,11 @@
 	},
 	"49548047": {
 		"nickname": "Starbucks (Canonsburg)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49635912": {
 		"nickname": "Starbucks (Tarentum)",
-		"is_sponsored": true
+		"is_ex": true
 	},
 	"49404609": {
 		"additional_information": "Be prepared for a 1 hour hike to access this gym."
