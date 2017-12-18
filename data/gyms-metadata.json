@@ -213,7 +213,8 @@
 		"additional_information": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
 	"1095010": {
-		"additional_terms": "pool"
+		"additional_terms": "pool",
+		"is_ex": true
 	},
 	"1101695": {
 		"nickname": "Apostolic Faith Church (Swissvale)"
