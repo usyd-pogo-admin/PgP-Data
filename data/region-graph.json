@@ -9,7 +9,6 @@
     "dahntahn-downtown",
     "bloomfield-strip-lawrenceville",
     "city-south",
-    "great-scott",
     "wild-west",
     "bellevue-westview-ross",
     "millvale-and-mrc"
@@ -42,7 +41,8 @@
     "oakland",
     "the-steel-valley",
     "great-scott",
-    "south-hills"
+    "south-hills",
+    "wild-west"
   ],
   "the-steel-valley": [
     "squirrelside",
@@ -83,7 +83,6 @@
     "mon-valley"
   ],
   "great-scott": [
-    "north-side",
     "city-south",
     "south-hills",
     "south-park-and-surrounding",
@@ -102,11 +101,12 @@
     "south-hills",
     "wild-west",
     "mon-valley",
-    "canonsburg",
-    "washington"
+    "washington",
+    "canonsburg"
   ],
   "wild-west": [
     "north-side",
+    "city-south",
     "great-scott",
     "south-park-and-surrounding",
     "north-by-northwest",
@@ -180,13 +180,13 @@
     "south-park-and-surrounding",
     "washington"
   ],
-  "canonsburg": [
-    "south-park-and-surrounding",
-    "washington"
-  ],
   "washington": [
     "south-park-and-surrounding",
     "mon-valley",
     "canonsburg"
+  ],
+  "canonsburg": [
+    "south-park-and-surrounding",
+    "washington"
   ]
 }
