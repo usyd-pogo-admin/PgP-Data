@@ -30,7 +30,7 @@
 		"is_ex": true
 	},
 	"63409": {
-		"nickname": "US Post Office (Homer City)"
+		"nickname": "US Post Office (Homer  City)"
 	},
 	"111908": {
 		"nickname": "Memorial Garden (Beaver)"
@@ -311,7 +311,8 @@
 		"nickname": "War Memorial (Leetsdale)"
 	},
 	"7432479": {
-		"nickname": "Forbes Road (Hoss's)"
+		"nickname": "Forbes Road (Hoss's)",
+		"additional_information": "Cell service tends to be very poor at this gym unless you are on AT&T's network."
 	},
 	"7434067": {
 		"nickname": "Forbes Road (Madero Cantina)"
