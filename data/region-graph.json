@@ -17,7 +17,7 @@
     "dahntahn-downtown",
     "north-side",
     "oakland",
-    "shadyside-and-highlandpark",
+    "east-shadyland",
     "millvale-and-mrc"
   ],
   "oakland": [
@@ -36,11 +36,11 @@
     "wild-west"
   ],
   "squirrelbreeze": [
-    "shadyside-and-highlandpark",
+    "east-shadyland",
     "the-old-east",
     "the-steel-valley"
   ],
-  "shadyside-and-highlandpark": [
+  "east-shadyland": [
     "bloomfield-strip-lawrenceville",
     "squirrelbreeze",
     "the-old-east",
@@ -49,7 +49,7 @@
   ],
   "the-old-east": [
     "squirrelbreeze",
-    "shadyside-and-highlandpark",
+    "east-shadyland",
     "the-steel-valley",
     "mckeesport-whiteoak",
     "monroeville-plum-murrysville",
@@ -139,7 +139,7 @@
   "millvale-and-mrc": [
     "north-side",
     "bloomfield-strip-lawrenceville",
-    "shadyside-and-highlandpark",
+    "east-shadyland",
     "gibsonia-wexford-northpark",
     "bellevue-westview-ross",
     "foxchapel-and-aspinwall"
@@ -159,7 +159,7 @@
     "foxchapel-and-aspinwall"
   ],
   "foxchapel-and-aspinwall": [
-    "shadyside-and-highlandpark",
+    "east-shadyland",
     "the-old-east",
     "gibsonia-wexford-northpark",
     "millvale-and-mrc",
