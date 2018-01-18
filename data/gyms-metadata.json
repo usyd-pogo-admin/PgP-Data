@@ -65,6 +65,9 @@
 	"234863": {
 		"nickname": "St. John&#039;s Lutheran Church (Cranberry)"
 	},
+	"239276": {
+		"nickname": "Mural Oakland (Mad Mex)"
+	},
 	"248713": {
 		"nickname": "Pittsburgh Post Office (Robinson)"
 	},
@@ -150,7 +153,11 @@
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
 	},
 	"675113": {
+		"nickname": "American Legion Post 82 (Carnegie)",
 		"additional_information" : "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
+	},
+	"677808": {
+		"nickname": "Oakland Mural (Sorrento's)"
 	},
 	"680273": {
 		"additional_information": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
@@ -211,6 +218,9 @@
 	},
 	"1041192": {
 		"nickname": "World War Memorial (Elliott)"
+	},
+	"1041410": {
+		"nickname": "American Legion Post 490 (Castle Shannon)"
 	},
 	"1064669": {
 		"additional_information": "Do **not** park at Ralph's.  Park at the Sheetz."
