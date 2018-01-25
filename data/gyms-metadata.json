@@ -239,7 +239,8 @@
 		"additional_terms": "jcc"
 	},
 	"1159296": {
-		"nickname": "Bayne Park"
+		"nickname": "Bayne Park",
+		"is_ex": true
 	},
 	"1170821": {
 		"nickname": "US Post Office (Elderton)"
