@@ -364,8 +364,14 @@
 	"10872604": {
 		"nickname": "US Post Office (Coulter)"
 	},
+	"10872631": {
+		"is_ex": true
+	},
 	"10872739": {
 		"nickname": "Toll House (Greensburg)"
+	},
+	"10872908": {
+		"is_ex": true
 	},
 	"11639187": {
 		"nickname": "Church of the Nazarene (New Brighton)"
@@ -429,6 +435,9 @@
 	},
 	"26530886": {
 		"nickname": "Buttermilk Falls Natural Area (Beaver Falls)"
+	},
+	"26874198": {
+		"is_ex": true
 	},
 	"33192061": {
 		"nickname": "Trinity Lutheran Church (Connellsville)"
