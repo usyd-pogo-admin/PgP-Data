@@ -74,6 +74,9 @@
 	"248713": {
 		"nickname": "Pittsburgh Post Office (Robinson)"
 	},
+	"253459": {
+		"is_ex": true
+	},
 	"291796": {
 		"nickname": "Holy Trinity Lutheran Church (East Pittsburgh)"
 	},
@@ -201,9 +204,6 @@
 	"859601": {
 		"nickname": "White Park (Easr Parkway)"
 	},
-	"902748": {
-		"is_ex": true
-	},
 	"924214": {
 		"nickname": "Calvary United Methodist Church (Chateau)"
 	},
@@ -261,7 +261,18 @@
 		"nickname": "Bridgeville Boro Fire Department"
 	},
 	"1207208": {
-		"nickname": "Pittsburgh Post Office (Ross)",
+		"nickname": "Pittsburgh Post Office (Ross)"
+	},
+	"2456356": {
+		"is_ex": true
+	},
+	"2456368": {
+		"is_ex": true
+	},
+	"2456374": {
+		"is_ex": true
+	},
+	"2456393": {
 		"is_ex": true
 	},
 	"2456404": {
@@ -269,6 +280,9 @@
 	},
 	"2456511": {
 		"nickname": "St. Ferd"
+	},
+	"2456776": {
+		"is_ex": true
 	},
 	"2456796": {
 		"nickname": "Trinity Lutheran Church (Franklin Park)"
