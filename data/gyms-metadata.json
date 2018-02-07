@@ -32,6 +32,9 @@
 	"63409": {
 		"nickname": "US Post Office (Homer  City)"
 	},
+	"104011": {
+		"is_ex": true
+	},
 	"111908": {
 		"nickname": "Memorial Garden (Beaver)"
 	},
@@ -68,6 +71,9 @@
 	"215730": {
 		"is_ex": true
 	},
+	"230815": {
+		"is_ex": true
+	},
 	"234863": {
 		"nickname": "St. John&#039;s Lutheran Church (Cranberry)"
 	},
@@ -78,6 +84,9 @@
 		"nickname": "Pittsburgh Post Office (Robinson)"
 	},
 	"253459": {
+		"is_ex": true
+	},
+	"273168": {
 		"is_ex": true
 	},
 	"291796": {
@@ -159,13 +168,20 @@
 		"nickname": "Good Shepherd Catholic Parish (Braddock)"
 	},
 	"552187": {
-		"additional_terms": "carnegie park"
+		"additional_terms": "carnegie park",
+		"is_ex": true
 	},
 	"570670": {
 		"is_ex": true
 	},
+	"602591": {
+		"is_ex": true
+	},
 	"605347": {
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
+	},
+	"623943": {
+		"is_ex": true
 	},
 	"675113": {
 		"nickname": "American Legion Post 82 (Carnegie)",
@@ -173,6 +189,9 @@
 	},
 	"677808": {
 		"nickname": "Oakland Mural (Sorrento's)"
+	},
+	"678006": {
+		"is_ex": true
 	},
 	"680273": {
 		"additional_information": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
@@ -261,7 +280,8 @@
 		"additional_information": "This church has requested that everyone park next door at the Hampton Inn."
 	},
 	"1204050": {
-		"nickname": "Les Getz Memorial Park (Church St)"
+		"nickname": "Les Getz Memorial Park (Church St)",
+		"is_ex": true
 	},
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
@@ -284,8 +304,14 @@
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
 	},
+	"2456509": {
+		"is_ex": true
+	},
 	"2456511": {
 		"nickname": "St. Ferd"
+	},
+	"2456691": {
+		"is_ex": true
 	},
 	"2456776": {
 		"is_ex": true
@@ -338,6 +364,9 @@
 	"5389831": {
 		"nickname": "Veterans Memorial (Clairton)"
 	},
+	"5389928": {
+		"is_ex": true
+	},
 	"5390266": {
 		"nickname": "US Post Office (Elrama)"
 	},
@@ -384,6 +413,9 @@
 	"9535132": {
 		"nickname": "Second Baptist Church (Mt Pleasant)"
 	},
+	"9535213": {
+		"is_ex": true
+	},
 	"10871762": {
 		"nickname": "US Post Office (Larimer)"
 	},
@@ -395,6 +427,9 @@
 	},
 	"10872739": {
 		"nickname": "Toll House (Greensburg)"
+	},
+	"10872886": {
+		"is_ex": true
 	},
 	"10872908": {
 		"is_ex": true
