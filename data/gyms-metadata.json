@@ -183,6 +183,12 @@
 	"623943": {
 		"is_ex": true
 	},
+	"653733": {
+		"is_ex": true
+	},
+	"665080": {
+		"is_ex": true
+	},
 	"675113": {
 		"nickname": "American Legion Post 82 (Carnegie)",
 		"additional_information" : "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
@@ -304,6 +310,9 @@
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
 	},
+	"2456432": {
+		"is_ex": true
+	},
 	"2456509": {
 		"is_ex": true
 	},
@@ -363,6 +372,9 @@
 	},
 	"5389831": {
 		"nickname": "Veterans Memorial (Clairton)"
+	},
+	"5389890": {
+		"is_ex": true
 	},
 	"5389928": {
 		"is_ex": true
