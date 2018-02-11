@@ -114,7 +114,8 @@
 		"nickname": "Pittsburgh Post Office (South Side Flats)"
 	},
 	"348147": {
-		"nickname": "Les Getz Memorial Park (Les Getz Dr)"
+		"nickname": "Les Getz Memorial Park (Les Getz Dr)",
+		"is_ex": true
 	},
 	"358377": {
 		"nickname": "Good Shepherd Catholic Parish (Braddock Hills)"
@@ -286,8 +287,7 @@
 		"additional_information": "This church has requested that everyone park next door at the Hampton Inn."
 	},
 	"1204050": {
-		"nickname": "Les Getz Memorial Park (Church St)",
-		"is_ex": true
+		"nickname": "Les Getz Memorial Park (Church St)"
 	},
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
