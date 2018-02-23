@@ -9,9 +9,9 @@
     "dahntahn-downtown",
     "bloomfield-strip-lawrenceville",
     "city-south",
-    "wild-west",
     "bellevue-westview-ross",
-    "millvale-and-mrc"
+    "millvale-and-mrc",
+    "wild-west"
   ],
   "bloomfield-strip-lawrenceville": [
     "dahntahn-downtown",
@@ -82,59 +82,43 @@
   "greensburg-and-westmoreland": [
     "mckeesport-whiteoak",
     "monroeville-plum-murrysville",
-    "upper-allegheny",
-    "mon-valley"
+    "mon-valley",
+    "upper-allegheny"
   ],
   "the-great-south": [
     "city-south",
-    "south-park-southwest",
     "wild-west",
-    "canonsburg"
+    "canonsburg",
+    "south-park-southwest"
   ],
   "the-51-corridor": [
     "city-south",
     "the-steel-valley",
     "mckeesport-whiteoak",
-    "south-park-southwest",
-    "mon-valley"
+    "mon-valley",
+    "south-park-southwest"
   ],
-  "south-park-southwest": [
-    "the-great-south",
+  "mon-valley": [
+    "mckeesport-whiteoak",
+    "greensburg-and-westmoreland",
     "the-51-corridor",
     "washington",
-    "canonsburg",
-    "mon-valley"
-  ],
-  "wild-west": [
-    "north-side",
-    "city-south",
-    "the-great-south",
-    "bellevue-westview-ross",
-    "canonsburg"
-  ],
-  "cranberry-and-friends": [
-    "gibsonia-wexford-northpark",
-    "butler-and-north"
+    "south-park-southwest"
   ],
   "gibsonia-wexford-northpark": [
-    "cranberry-and-friends",
     "bellevue-westview-ross",
-    "butler-and-north",
     "millvale-and-mrc",
     "upper-allegheny",
     "oakmont-springdale",
-    "foxchapel-and-aspinwall"
+    "foxchapel-and-aspinwall",
+    "wild-west",
+    "cranberry-and-friends"
   ],
   "bellevue-westview-ross": [
     "north-side",
-    "wild-west",
     "gibsonia-wexford-northpark",
-    "millvale-and-mrc"
-  ],
-  "butler-and-north": [
-    "cranberry-and-friends",
-    "gibsonia-wexford-northpark",
-    "upper-allegheny"
+    "millvale-and-mrc",
+    "wild-west"
   ],
   "millvale-and-mrc": [
     "north-side",
@@ -148,7 +132,6 @@
     "monroeville-plum-murrysville",
     "greensburg-and-westmoreland",
     "gibsonia-wexford-northpark",
-    "butler-and-north",
     "oakmont-springdale"
   ],
   "oakmont-springdale": [
@@ -165,22 +148,33 @@
     "millvale-and-mrc",
     "oakmont-springdale"
   ],
+  "wild-west": [
+    "north-side",
+    "city-south",
+    "the-great-south",
+    "gibsonia-wexford-northpark",
+    "bellevue-westview-ross",
+    "canonsburg"
+  ],
   "washington": [
-    "south-park-southwest",
+    "mon-valley",
     "canonsburg",
-    "mon-valley"
+    "south-park-southwest"
   ],
   "canonsburg": [
     "the-great-south",
-    "south-park-southwest",
     "wild-west",
-    "washington"
+    "washington",
+    "south-park-southwest"
   ],
-  "mon-valley": [
-    "mckeesport-whiteoak",
-    "greensburg-and-westmoreland",
+  "cranberry-and-friends": [
+    "gibsonia-wexford-northpark"
+  ],
+  "south-park-southwest": [
+    "the-great-south",
     "the-51-corridor",
-    "south-park-southwest",
-    "washington"
+    "mon-valley",
+    "washington",
+    "canonsburg"
   ]
 }
