@@ -130,7 +130,8 @@
 		"nickname": "Calvary Baptist Church (Morgantown)"
 	},
 	"389065": {
-		"nickname": "World War Memorial (Carnegie / Scott)"
+		"nickname": "World War Memorial (Carnegie / Scott)",
+		"is_ex": true
 	},
 	"411564": {
 		"nickname": "St. John&#039;s Lutheran Church (North Versailles)"
@@ -521,6 +522,12 @@
 	},
 	"33192061": {
 		"nickname": "Trinity Lutheran Church (Connellsville)"
+	},
+	"40660896": {
+		"additional_terms": "sp00ky"
+	},
+	"40660904": {
+		"additional_terms": "ultrasp00ky"
 	},
 	"45249305": {
 		"nickname": "First United Methodist Church (Brookville)"
