@@ -32,6 +32,12 @@
 	"63409": {
 		"nickname": "US Post Office (Homer  City)"
 	},
+	"72565": {
+		"is_ex": true
+	},
+	"75721": {
+		"is_ex": true
+	},
 	"104011": {
 		"is_ex": true
 	},
@@ -185,6 +191,9 @@
 	"623943": {
 		"is_ex": true
 	},
+	"652780": {
+		"is_ex": true
+	},
 	"653733": {
 		"is_ex": true
 	},
@@ -209,6 +218,9 @@
 	},
 	"703842": {
 		"nickname": "The Church of Jesus Christ of Latter-Day Saints (Franklin Park)"
+	},
+	"730965": {
+		"is_ex": true
 	},
 	"792701": {
 		"nickname": "Holy Trinity Lutheran Church (Beaver)"
@@ -264,6 +276,9 @@
 	"1064669": {
 		"additional_information": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
+	"1074432": {
+		"is_ex": true
+	},
 	"1095010": {
 		"additional_terms": "pool",
 		"is_ex": true
@@ -276,6 +291,9 @@
 	},
 	"1112937": {
 		"additional_terms": "jcc"
+	},
+	"1130272": {
+		"is_ex": true
 	},
 	"1159296": {
 		"nickname": "Bayne Park",
@@ -370,6 +388,9 @@
 	},
 	"3549323": {
 		"nickname": "Old Main (Washington)"
+	},
+	"5389575": {
+		"is_ex": true
 	},
 	"5389618": {
 		"nickname": "Boyce Mayview Park (Morton Rd)"
