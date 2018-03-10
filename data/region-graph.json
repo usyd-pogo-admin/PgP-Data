@@ -32,7 +32,7 @@
     "oakland",
     "the-steel-valley",
     "the-great-south",
-    "the-51-corridor",
+    "area-51",
     "wild-west"
   ],
   "squirrelbreeze": [
@@ -62,14 +62,14 @@
     "squirrelbreeze",
     "the-old-east",
     "mckeesport-whiteoak",
-    "the-51-corridor"
+    "area-51"
   ],
   "mckeesport-whiteoak": [
     "the-old-east",
     "the-steel-valley",
     "monroeville-plum-murrysville",
     "greensburg-and-westmoreland",
-    "the-51-corridor",
+    "area-51",
     "mon-valley"
   ],
   "monroeville-plum-murrysville": [
@@ -91,7 +91,7 @@
     "canonsburg",
     "south-park-southwest"
   ],
-  "the-51-corridor": [
+  "area-51": [
     "city-south",
     "the-steel-valley",
     "mckeesport-whiteoak",
@@ -101,7 +101,7 @@
   "mon-valley": [
     "mckeesport-whiteoak",
     "greensburg-and-westmoreland",
-    "the-51-corridor",
+    "area-51",
     "washington",
     "south-park-southwest"
   ],
@@ -172,7 +172,7 @@
   ],
   "south-park-southwest": [
     "the-great-south",
-    "the-51-corridor",
+    "area-51",
     "mon-valley",
     "washington",
     "canonsburg"
