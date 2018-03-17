@@ -169,6 +169,9 @@
 	"485619": {
 		"nickname": "US Post Office (Koppel)"
 	},
+	"497189": {
+		"is_ex": true
+	},
 	"504230": {
 		"nickname": "Baptist Church (McDonald)"
 	},
@@ -478,7 +481,16 @@
 		"additional_information": "This gym has very poor phone service. AT&T is the only one that consistently works here.",
 		"is_ex": true
 	},
+	"10872892": {
+		"is_ex": true
+	},
 	"10872908": {
+		"is_ex": true
+	},
+	"10873058": {
+		"is_ex": true
+	},
+	"10873060": {
 		"is_ex": true
 	},
 	"11639187": {
