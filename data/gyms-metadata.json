@@ -329,6 +329,9 @@
 	"1204050": {
 		"nickname": "Les Getz Memorial Park (Church St)"
 	},
+	"1204633": {
+		"is_ex": true
+	},
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
 	},
@@ -388,6 +391,9 @@
 	},
 	"3096195": {
 		"nickname": "War Memorial (Brackenridge)"
+	},
+	"3096246": {
+		"is_ex": true
 	},
 	"3096270": {
 		"nickname": "Community Library of Allegheny Valley (Harrison Branch)"
