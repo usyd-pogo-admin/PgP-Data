@@ -86,6 +86,9 @@
 	"215730": {
 		"is_ex": true
 	},
+	"219838": {
+		"is_ex": true
+	},
 	"230815": {
 		"is_ex": true
 	},
@@ -203,6 +206,9 @@
 	"605347": {
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
 	},
+	"623129": {
+		"is_ex": true
+	},
 	"623943": {
 		"is_ex": true
 	},
@@ -273,8 +279,14 @@
 	"936692": {
 		"nickname": "Veterans Memorial (Robinson / McKees Rocks)"
 	},
+	"937825": {
+		"is_ex": true
+	},
 	"950884": {
 		"nickname": "Trinity Lutheran Church (Mount Oliver)"
+	},
+	"970589": {
+		"is_ex": true
 	},
 	"980042": {
 		"nickname": "Veterans Memorial (Munhall)"
@@ -361,6 +373,9 @@
 	},
 	"2456511": {
 		"nickname": "St. Ferd"
+	},
+	"2456535": {
+		"is_ex": true
 	},
 	"2456691": {
 		"is_ex": true
