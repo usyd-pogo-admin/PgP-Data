@@ -103,6 +103,7 @@
     "greensburg-and-westmoreland",
     "area-51",
     "washington",
+    "canonsburg",
     "south-park-southwest"
   ],
   "gibsonia-wexford-northpark": [
@@ -158,11 +159,11 @@
   ],
   "washington": [
     "mon-valley",
-    "canonsburg",
-    "south-park-southwest"
+    "canonsburg"
   ],
   "canonsburg": [
     "the-great-south",
+    "mon-valley",
     "wild-west",
     "washington",
     "south-park-southwest"
@@ -174,7 +175,6 @@
     "the-great-south",
     "area-51",
     "mon-valley",
-    "washington",
     "canonsburg"
   ]
 }
