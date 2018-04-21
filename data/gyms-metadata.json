@@ -17,6 +17,9 @@
 	"21754": {
 		"nickname": "World War II Memorial (Strattanville)"
 	},
+	"30268": {
+		"additional_information": "This gym is in a cemetery, so please be respectful of the grounds."
+	},
 	"39643": {
 		"nickname": "World War II Memorial (Noblestown)"
 	},
@@ -518,6 +521,9 @@
 	},
 	"10872886": {
 		"additional_information": "This gym has very poor phone service. AT&T is the only one that consistently works here.",
+		"is_ex": true
+	},
+	"10872879": {
 		"is_ex": true
 	},
 	"10872892": {
