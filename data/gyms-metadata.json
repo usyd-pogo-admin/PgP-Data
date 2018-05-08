@@ -18,7 +18,7 @@
 		"nickname": "World War II Memorial (Strattanville)"
 	},
 	"30268": {
-		"additional_information": "This gym is in a cemetery, so please be respectful of the grounds."
+		"additional_information": "This gym is in a cemetery, so please be respectful of the grounds. Property management would prefer cars to park outside the cemetery and walk in."
 	},
 	"39643": {
 		"nickname": "World War II Memorial (Noblestown)"
@@ -31,6 +31,9 @@
 	},
 	"51104": {
 		"additional_information": "Parking is plentiful in the lot, but cell service can be spotty."
+	},
+	"53883": {
+		"is_ex": true
 	},
 	"62253": {
 		"is_ex": true
@@ -204,6 +207,9 @@
 		"is_ex": true
 	},
 	"570670": {
+		"is_ex": true
+	},
+	"601623": {
 		"is_ex": true
 	},
 	"602591": {
@@ -726,5 +732,8 @@
 	},
 	"49404611": {
 		"additional_information": "Be prepared for a 1 hour hike to access this gym."
+	},
+	"194f883f34544d9c9afe2fe964777aad.16": {
+		"is_ex": true
 	}
 }
