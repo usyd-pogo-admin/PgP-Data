@@ -2115,8 +2115,8 @@
                 -80.0928211,40.5796721,0
                 -80.1464651,40.5811061,0
                 -80.2036284,40.5851474,0
-                -80.2564675,40.5222902,0
-                -80.3253898,40.5014082,0
+                -80.2858216,40.5496873,0
+                -80.3082237,40.5212458,0
                 -80.3298538,40.4960562,0
                 -80.3301968,40.4913562,0
                 -80.3370628,40.4886152,0
@@ -3768,7 +3768,7 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Park Gyms (Potential EX)</name>
+      <name>Potential EX Gyms</name>
       <Placemark>
         <name>Oracle at Frick Park Braddock</name>
         <description><![CDATA[Longitude: -79.897912<br>Latitude: 40.439101]]></description>
@@ -4162,6 +4162,24 @@
         <Point>
           <coordinates>
             -80.133586,40.466363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albert Falcioni Memorial Field</name>
+        <description><![CDATA[Longitude: -80.074745<br>Latitude: 40.402953]]></description>
+        <styleUrl>#icon-1720-097138</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.074745</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.402953</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.074745,40.402953,0
           </coordinates>
         </Point>
       </Placemark>
@@ -6142,6 +6160,24 @@
         <Point>
           <coordinates>
             -79.748385,40.47208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Duquesne</name>
+        <description><![CDATA[Longitude: -80.010935<br>Latitude: 40.441613]]></description>
+        <styleUrl>#icon-1720-097138</styleUrl>
+        <ExtendedData>
+          <Data name="Longitude">
+            <value>-80.010935</value>
+          </Data>
+          <Data name="Latitude">
+            <value>40.441613</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.010935,40.441613,0
           </coordinates>
         </Point>
       </Placemark>
