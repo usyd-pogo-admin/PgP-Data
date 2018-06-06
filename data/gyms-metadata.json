@@ -209,6 +209,9 @@
 	"570670": {
 		"is_ex": true
 	},
+	"600821": {
+		"additional_information": "Park across the street at the Eat’n’Park."
+	},
 	"601623": {
 		"is_ex": true
 	},
@@ -673,7 +676,7 @@
 	},
 	"49080427": {
 		"nickname": "Starbucks (Green Tree)",
-		"additional_information": "This location has *very limited* parking.",
+		"additional_information": "The building is under construction and the parking lot may be blocked off. Please be respectful to the construction workers and do not get in their way.",
 		"is_ex": true
 	},
 	"49080428": {
@@ -741,6 +744,12 @@
 		"additional_information": "Be prepared for a 1 hour hike to access this gym."
 	},
 	"194f883f34544d9c9afe2fe964777aad.16": {
+		"is_ex": true
+	},
+	"895cee3fad784837a9d5c642d2386d95.16": {
+		"additional_information": "This location is a T stop and the only access points are from a train or down a steep set of stairs. Please be careful getting to this location."
+	},
+	"bbc29f922e43454f95474d04199c0f5c.12": {
 		"is_ex": true
 	}
 }
