@@ -31,8 +31,9 @@
     "north-side",
     "oakland",
     "the-steel-valley",
-    "the-great-south",
+    "great-scott",
     "area-51",
+    "south-hills",
     "wild-west"
   ],
   "squirrelbreeze": [
@@ -85,25 +86,38 @@
     "mon-valley",
     "upper-allegheny"
   ],
-  "the-great-south": [
+  "great-scott": [
     "city-south",
+    "south-park-southwest",
+    "south-hills",
     "wild-west",
-    "canonsburg",
-    "south-park-southwest"
+    "canonsburg"
   ],
   "area-51": [
     "city-south",
     "the-steel-valley",
     "mckeesport-whiteoak",
+    "south-park-southwest",
+    "south-hills"
+  ],
+  "south-park-southwest": [
+    "great-scott",
+    "area-51",
     "mon-valley",
-    "south-park-southwest"
+    "south-hills",
+    "canonsburg"
   ],
   "mon-valley": [
     "mckeesport-whiteoak",
     "greensburg-and-westmoreland",
-    "area-51",
+    "south-park-southwest",
     "washington",
-    "canonsburg",
+    "canonsburg"
+  ],
+  "south-hills": [
+    "city-south",
+    "great-scott",
+    "area-51",
     "south-park-southwest"
   ],
   "gibsonia-wexford-northpark": [
@@ -152,7 +166,7 @@
   "wild-west": [
     "north-side",
     "city-south",
-    "the-great-south",
+    "great-scott",
     "gibsonia-wexford-northpark",
     "bellevue-westview-ross",
     "canonsburg"
@@ -162,19 +176,13 @@
     "canonsburg"
   ],
   "canonsburg": [
-    "the-great-south",
+    "great-scott",
+    "south-park-southwest",
     "mon-valley",
     "wild-west",
-    "washington",
-    "south-park-southwest"
+    "washington"
   ],
   "cranberry-and-friends": [
     "gibsonia-wexford-northpark"
-  ],
-  "south-park-southwest": [
-    "the-great-south",
-    "area-51",
-    "mon-valley",
-    "canonsburg"
   ]
 }
