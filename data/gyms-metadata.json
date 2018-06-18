@@ -182,6 +182,7 @@
 		"nickname": "St. John&#039;s Lutheran Church (Millvale)"
 	},
 	"459731": {
+		"additional_terms": "entrance",
 		"additional_information": "This gym is *not* actually in the park and therefore not EX-eligible."
 	},
 	"485619": {
@@ -312,6 +313,9 @@
 	},
 	"980042": {
 		"nickname": "Veterans Memorial (Munhall)"
+	},
+	"980883": {
+		"additional_terms": "dino"
 	},
 	"1033578": {
 		"nickname": "Trinity Lutheran Church (Verona)"
@@ -685,7 +689,7 @@
 	},
 	"49080427": {
 		"nickname": "Starbucks (Green Tree)",
-		"additional_information": "The building is under construction and the parking lot may be blocked off. Please be respectful to the construction workers and do not get in their way.",
+		"additional_information": "This location has *very limited* parking.",
 		"is_ex": true
 	},
 	"49080428": {
