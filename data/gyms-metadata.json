@@ -259,6 +259,9 @@
 	"703842": {
 		"nickname": "The Church of Jesus Christ of Latter-Day Saints (Franklin Park)"
 	},
+	"710859": {
+		"is_ex": true
+	},
 	"730965": {
 		"is_ex": true
 	},
@@ -369,6 +372,9 @@
 	},
 	"1177012": {
 		"additional_information": "This church has requested that everyone park next door at the Hampton Inn."
+	},
+	"1200967": {
+		"is_ex": true
 	},
 	"1204050": {
 		"nickname": "Les Getz Memorial Park (Church St)"
