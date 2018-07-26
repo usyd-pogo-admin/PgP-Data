@@ -194,6 +194,9 @@
 		"additional_terms": "entrance",
 		"additional_information": "This gym is *not* actually in the park and therefore not EX-eligible."
 	},
+	"478777": {
+		"is_ex": true
+	},
 	"485619": {
 		"nickname": "US Post Office (Koppel)"
 	},
@@ -341,6 +344,15 @@
 	"980883": {
 		"additional_terms": "dino"
 	},
+	"989312": {
+		"is_ex": true
+	},
+	"1021018": {
+		"is_ex": true
+	},
+	"1021108": {
+		"is_ex": true
+	},
 	"1033578": {
 		"nickname": "Trinity Lutheran Church (Verona)"
 	},
@@ -352,6 +364,9 @@
 	},
 	"1041410": {
 		"nickname": "American Legion Post 490 (Castle Shannon)"
+	},
+	"1048595": {
+		"is_ex": true
 	},
 	"1054310": {
 		"is_ex": true
@@ -386,6 +401,9 @@
 	},
 	"1159296": {
 		"nickname": "Bayne Park",
+		"is_ex": true
+	},
+	"1169030": {
 		"is_ex": true
 	},
 	"1169680": {
@@ -675,6 +693,9 @@
 	"26874198": {
 		"is_ex": true
 	},
+	"26874189": {
+		"is_ex": true
+	},
 	"26874241": {
 		"is_ex": true
 	},
@@ -806,6 +827,7 @@
 		"is_ex": true
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
-		"additional_information": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail."
+		"additional_information": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
+		"is_ex": true
 	}
 }
