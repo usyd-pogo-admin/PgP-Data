@@ -192,7 +192,7 @@
 	},
 	"459731": {
 		"additional_terms": "entrance",
-		"additional_information": "This gym is *not* actually in the park and therefore not EX-eligible."
+		"additional_information": "Be aware that the property owners across the street from this gym are not comfortable with players close to their property.  Please be polite and try to avoid their property when raiding here.  Further, this gym is *not* actually in the park and therefore not EX-eligible."
 	},
 	"478777": {
 		"is_ex": true
@@ -221,6 +221,9 @@
 	"552187": {
 		"additional_terms": "carnegie park",
 		"is_ex": true
+	},
+	"563490": {
+		"additional_information": "This is a volunteer fire department.  They have asked that we *not block* entrances and exits from their lot.  Consider parking in the lower lot that serves the Port Authority station."
 	},
 	"570670": {
 		"is_ex": true
@@ -546,6 +549,9 @@
 	},
 	"5390182": {
 		"is_ex": true
+	},
+	"5390361": {
+		"additional_information": "The owner has had issues with players on the property so please try to stay off of it in order to avoid conflict with authorities."
 	},
 	"5390266": {
 		"nickname": "US Post Office (Elrama)"
