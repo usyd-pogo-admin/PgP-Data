@@ -24,6 +24,8 @@
     "dahntahn-downtown",
     "bloomfield-strip-lawrenceville",
     "city-south",
+    "squirrelbreeze",
+    "east-shadyland",
     "the-steel-valley"
   ],
   "city-south": [
@@ -37,12 +39,14 @@
     "wild-west"
   ],
   "squirrelbreeze": [
+    "oakland",
     "east-shadyland",
     "the-old-east",
     "the-steel-valley"
   ],
   "east-shadyland": [
     "bloomfield-strip-lawrenceville",
+    "oakland",
     "squirrelbreeze",
     "the-old-east",
     "millvale-and-mrc",
@@ -98,6 +102,7 @@
     "the-steel-valley",
     "mckeesport-whiteoak",
     "south-park-southwest",
+    "mon-valley",
     "south-hills"
   ],
   "south-park-southwest": [
@@ -110,6 +115,7 @@
   "mon-valley": [
     "mckeesport-whiteoak",
     "greensburg-and-westmoreland",
+    "area-51",
     "south-park-southwest",
     "washington",
     "canonsburg"
