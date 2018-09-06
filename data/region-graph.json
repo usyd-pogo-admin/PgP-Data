@@ -73,22 +73,26 @@
     "the-old-east",
     "the-steel-valley",
     "monroeville-plum-murrysville",
-    "greensburg-and-westmoreland",
+    "irwin-greensburg-mountpleasant",
     "area-51",
     "mon-valley"
   ],
   "monroeville-plum-murrysville": [
     "the-old-east",
     "mckeesport-whiteoak",
-    "greensburg-and-westmoreland",
+    "irwin-greensburg-mountpleasant",
     "upper-allegheny",
     "oakmont-springdale"
   ],
-  "greensburg-and-westmoreland": [
+  "irwin-greensburg-mountpleasant": [
     "mckeesport-whiteoak",
     "monroeville-plum-murrysville",
+    "latrobe-ligonier-blairsville",
     "mon-valley",
     "upper-allegheny"
+  ],
+  "latrobe-ligonier-blairsville": [
+    "irwin-greensburg-mountpleasant"
   ],
   "great-scott": [
     "city-south",
@@ -114,7 +118,7 @@
   ],
   "mon-valley": [
     "mckeesport-whiteoak",
-    "greensburg-and-westmoreland",
+    "irwin-greensburg-mountpleasant",
     "area-51",
     "south-park-southwest",
     "washington",
@@ -151,7 +155,7 @@
   ],
   "upper-allegheny": [
     "monroeville-plum-murrysville",
-    "greensburg-and-westmoreland",
+    "irwin-greensburg-mountpleasant",
     "gibsonia-wexford-northpark",
     "oakmont-springdale"
   ],
