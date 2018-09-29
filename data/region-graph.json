@@ -10,7 +10,8 @@
     "bloomfield-strip-lawrenceville",
     "city-south",
     "millvale-and-mrc",
-    "wild-west"
+    "wild-west",
+    "bellevue-westview-ross"
   ],
   "bloomfield-strip-lawrenceville": [
     "dahntahn-downtown",
@@ -130,26 +131,21 @@
     "south-park-southwest"
   ],
   "gibsonia-wexford-northpark": [
-    "bellevue-westview-ross",
     "millvale-and-mrc",
     "upper-allegheny",
     "oakmont-springdale",
     "foxchapel-and-aspinwall",
     "wild-west",
-    "cranberry-and-friends"
-  ],
-  "bellevue-westview-ross": [
-    "gibsonia-wexford-northpark",
-    "millvale-and-mrc",
-    "wild-west"
+    "cranberry-and-friends",
+    "bellevue-westview-ross"
   ],
   "millvale-and-mrc": [
     "north-side",
     "bloomfield-strip-lawrenceville",
     "east-shadyland",
     "gibsonia-wexford-northpark",
-    "bellevue-westview-ross",
-    "foxchapel-and-aspinwall"
+    "foxchapel-and-aspinwall",
+    "bellevue-westview-ross"
   ],
   "upper-allegheny": [
     "monroeville-plum-murrysville",
@@ -176,8 +172,8 @@
     "city-south",
     "great-scott",
     "gibsonia-wexford-northpark",
-    "bellevue-westview-ross",
-    "canonsburg"
+    "canonsburg",
+    "bellevue-westview-ross"
   ],
   "washington": [
     "mon-valley",
@@ -192,5 +188,11 @@
   ],
   "cranberry-and-friends": [
     "gibsonia-wexford-northpark"
+  ],
+  "bellevue-westview-ross": [
+    "north-side",
+    "gibsonia-wexford-northpark",
+    "millvale-and-mrc",
+    "wild-west"
   ]
 }
