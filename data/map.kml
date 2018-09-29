@@ -105,44 +105,6 @@
         <styleUrl>#icon-1739-000000-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-0097A7-5000-77-nodesc-normal">
-      <LineStyle>
-        <color>ffa79700</color>
-        <width>5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4da79700</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-0097A7-5000-77-nodesc-highlight">
-      <LineStyle>
-        <color>ffa79700</color>
-        <width>7.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4da79700</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="poly-0097A7-5000-77-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-0097A7-5000-77-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-0097A7-5000-77-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-01579B-5000-77-nodesc-normal">
       <LineStyle>
         <color>ff9b5701</color>
@@ -179,6 +141,44 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-01579B-5000-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0288D1-4401-99-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>4.401</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>63d18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0288D1-4401-99-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6.6015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>63d18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-4401-99-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-4401-99-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-4401-99-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-097138-4000-77-nodesc-normal">
@@ -2034,64 +2034,6 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>#bellevue-westview-ross</name>
-        <styleUrl>#poly-0097A7-5000-77-nodesc</styleUrl>
-        <MultiGeometry>
-          <Polygon>
-            <outerBoundaryIs>
-              <LinearRing>
-                <tessellate>1</tessellate>
-                <coordinates>
-                  -79.9813756,40.5521733,0
-                  -79.9814613,40.5522385,0
-                  -79.9814786,40.5521623,0
-                  -79.9813756,40.5521733,0
-                </coordinates>
-              </LinearRing>
-            </outerBoundaryIs>
-          </Polygon>
-          <Polygon>
-            <outerBoundaryIs>
-              <LinearRing>
-                <tessellate>1</tessellate>
-                <coordinates>
-                  -79.9814786,40.5521623,0
-                  -80.0180625,40.5482441,0
-                  -80.0486189,40.5469393,0
-                  -80.096812,40.5480807,0
-                  -80.1123322,40.511688,0
-                  -80.0983989,40.5073073,0
-                  -80.0781439,40.5001607,0
-                  -80.0622658,40.4901082,0
-                  -80.0493048,40.4809692,0
-                  -80.0449058,40.4735262,0
-                  -80.0422878,40.4690852,0
-                  -80.0378038,40.4634702,0
-                  -80.0242204,40.4676487,0
-                  -80.0196716,40.4687271,0
-                  -80.0182552,40.4703101,0
-                  -80.0153814,40.4718295,0
-                  -80.0077624,40.4763333,0
-                  -80.0016688,40.4800872,0
-                  -80.0109388,40.4942852,0
-                  -80.0080198,40.4963742,0
-                  -80.0077628,40.4985282,0
-                  -80.0050588,40.5005842,0
-                  -80.0033858,40.5012042,0
-                  -80.0020958,40.5030292,0
-                  -79.9979318,40.5048562,0
-                  -79.9938447,40.5215592,0
-                  -79.9871498,40.5353898,0
-                  -79.9846449,40.5412318,0
-                  -79.9828346,40.5461732,0
-                  -79.9814786,40.5521623,0
-                </coordinates>
-              </LinearRing>
-            </outerBoundaryIs>
-          </Polygon>
-        </MultiGeometry>
-      </Placemark>
-      <Placemark>
         <name>#millvale-and-mrc</name>
         <styleUrl>#poly-F57C00-5000-77-nodesc</styleUrl>
         <Polygon>
@@ -2472,6 +2414,43 @@
                 -80.097928,40.820435,0
                 -80.125394,40.819396,0
                 -80.14153,40.814134,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>#bellevue-westview-ross</name>
+        <styleUrl>#poly-0288D1-4401-99-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.1122463,40.5116228,0
+                -80.0979396,40.5071515,0
+                -80.0780259,40.5001037,0
+                -80.0491868,40.4809122,0
+                -80.0421698,40.4690282,0
+                -80.037718,40.463405,0
+                -80.0195858,40.4686619,0
+                -80.001583,40.480022,0
+                -80.010853,40.49422,0
+                -80.007934,40.496309,0
+                -80.007677,40.498463,0
+                -80.004973,40.500519,0
+                -80.0033,40.501139,0
+                -80.00201,40.502964,0
+                -79.997846,40.504791,0
+                -79.9937589,40.521494,0
+                -79.987976,40.5337359,0
+                -79.9851266,40.5399464,0
+                -79.9827489,40.546108,0
+                -79.9813756,40.5521733,0
+                -80.0180625,40.5482441,0
+                -80.0466377,40.5471009,0
+                -80.096812,40.5480807,0
+                -80.1122463,40.5116228,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
