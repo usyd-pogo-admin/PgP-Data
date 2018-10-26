@@ -14,6 +14,9 @@
 	"15260": {
 		"nickname": "Boyce Mayview Park (Mayview)"
 	},
+	"20853": {
+		"additional_information": "Please turn right at the fork near the entrance. It is a one-way loop."
+	},
 	"21754": {
 		"nickname": "World War II Memorial (Strattanville)"
 	},
@@ -391,6 +394,9 @@
 	},
 	"1048595": {
 		"is_ex": true
+	},
+	"1052243": {
+		"additional_information": "To avoid the building owners removing this gym, please park near the end of the lot and do not block the stairs while raiding."
 	},
 	"1054310": {
 		"is_ex": true
