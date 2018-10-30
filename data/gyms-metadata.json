@@ -322,11 +322,31 @@
 	"1207208": {
 		"nickname": "Pittsburgh Post Office (Ross)"
 	},
+	"2456393": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
+	"2456356": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
 	},
+	"2456432": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
+	"2456509": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
 	"2456511": {
 		"nickname": "St. Ferd"
+	},
+	"2456609": {
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456796": {
 		"nickname": "Trinity Lutheran Church (Franklin Park)"
