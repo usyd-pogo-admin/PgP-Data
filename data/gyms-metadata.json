@@ -15,13 +15,13 @@
 		"nickname": "Boyce Mayview Park (Mayview)"
 	},
 	"20853": {
-		"additional_information": "Please turn right at the fork near the entrance. It is a one-way loop."
+		"additionalInformation": "Please turn right at the fork near the entrance. It is a one-way loop."
 	},
 	"21754": {
 		"nickname": "World War II Memorial (Strattanville)"
 	},
 	"30268": {
-		"additional_information": "This gym is in a cemetery, so please be respectful of the grounds. Property management would prefer cars to park outside the cemetery and walk in."
+		"additionalInformation": "This gym is in a cemetery, so please be respectful of the grounds. Property management would prefer cars to park outside the cemetery and walk in."
 	},
 	"39643": {
 		"nickname": "World War II Memorial (Noblestown)"
@@ -33,28 +33,17 @@
 		"nickname": "US Post Office (Elizabeth)"
 	},
 	"51104": {
-		"additional_information": "Parking is plentiful in the lot, but cell service can be spotty."
-	},
-	"53883": {
-		"is_ex": true
+		"additionalInformation": "Parking is plentiful in the lot, but cell service can be spotty."
 	},
 	"62253": {
-		"is_ex": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"63409": {
 		"nickname": "US Post Office (Homer  City)"
 	},
-	"72565": {
-		"is_ex": true
-	},
 	"75721": {
-		"additional_terms": "highfield"
-	},
-	"87538": {
-		"is_ex": true
-	},
-	"104011": {
-		"is_ex": true
+		"additionalTerms": "highfield"
 	},
 	"111908": {
 		"nickname": "Memorial Garden (Beaver)"
@@ -63,13 +52,11 @@
 		"nickname": "United Presbyterian Church (West Sunbury)"
 	},
 	"122481": {
-		"is_ex": true
-	},
-	"137623": {
-		"is_ex": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"140321": {
-		"additional_information": "Do **not** stand in front of the entrance to the pet store - the owner gets upset!"
+		"additionalInformation": "Do **not** stand in front of the entrance to the pet store - the owner gets upset!"
 	},
 	"162104": {
 		"nickname": "Church of Christ (Brookville)"
@@ -78,13 +65,8 @@
 		"nickname": "US Post Office (Indiana)"
 	},
 	"169403": {
-		"is_ex": true
-	},
-	"192395": {
-		"is_ex": true
-	},
-	"193447": {
-		"is_ex": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"198016": {
 		"nickname": "First Christian Church (McKeesport)"
@@ -93,19 +75,10 @@
 		"nickname": "US Post Office (Oil City)"
 	},
 	"204830": {
-		"additional_information": "Please be respectful of church services, especially on Sunday mornings between 8 am and noon."
-	},
-	"215730": {
-		"is_ex": true
-	},
-	"219838": {
-		"is_ex": true
-	},
-	"230815": {
-		"is_ex": true
+		"additionalInformation": "Please be respectful of church services, especially on Sunday mornings between 8 am and noon."
 	},
 	"283097": {
-		"additional_information": "Kings Restaurant has asked players not to park in their lot for raids.  Please be respectful and find another place to park."
+		"additionalInformation": "Kings Restaurant has asked players not to park in their lot for raids.  Please be respectful and find another place to park."
 	},
 	"234863": {
 		"nickname": "St. John&#039;s Lutheran Church (Cranberry)"
@@ -113,23 +86,14 @@
 	"239276": {
 		"nickname": "Mural Oakland (Mad Mex)"
 	},
-	"241054": {
-		"is_ex": true
-	},
 	"248713": {
 		"nickname": "Pittsburgh Post Office (Robinson)"
-	},
-	"253459": {
-		"is_ex": true
 	},
 	"257629": {
 		"nickname": "Mayernik Park Fountain"
 	},
-	"273168": {
-		"is_ex": true
-	},
 	"284521": {
-		"additional_information": "Weekend Mass times: Saturday - 4PM & Sunday - 7:30am, 9:30 am, & 11:30 am"
+		"additionalInformation": "Weekend Mass times: Saturday - 4PM & Sunday - 7:30am, 9:30 am, & 11:30 am"
 	},
 	"291796": {
 		"nickname": "Holy Trinity Lutheran Church (East Pittsburgh)"
@@ -138,10 +102,10 @@
 		"nickname": "Our Lady Queen of Peace (East Allegheny)"
 	},
 	"313669": {
-		"additional_information": "Park across the street between the diner and gas station."
+		"additionalInformation": "Park across the street between the diner and gas station."
 	},
 	"314965": {
-		"additional_terms": "walnut"
+		"additionalTerms": "walnut"
 	},
 	"319147": {
 		"nickname": "Carnegie Library of Pittsburgh (Sheraden)"
@@ -155,15 +119,14 @@
 	"336330": {
 		"nickname": "Pittsburgh Post Office (South Side Flats)"
 	},
+	"346605": {
+		"hasExTag": true
+	},
 	"348147": {
-		"nickname": "Les Getz Memorial Park (Les Getz Dr)",
-		"is_ex": true
+		"nickname": "Les Getz Memorial Park (Les Getz Dr)"
 	},
 	"358377": {
 		"nickname": "Good Shepherd Catholic Parish (Braddock Hills)"
-	},
-	"362963": {
-		"is_ex": true
 	},
 	"364063": {
 		"nickname": "First United Presbyterian Church (Mannington)"
@@ -175,54 +138,38 @@
 		"nickname": "Calvary Baptist Church (Morgantown)"
 	},
 	"389065": {
-		"nickname": "World War Memorial (Scott Park Pool)",
-		"is_ex": true
-	},
-	"395904": {
-		"is_ex": true
-	},
-	"404945": {
-		"is_ex": true
+		"nickname": "World War Memorial (Scott Park Pool)"
 	},
 	"411564": {
 		"nickname": "St. John&#039;s Lutheran Church (North Versailles)"
 	},
 	"412648": {
-		"additional_information": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
+		"additionalInformation": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
 	},
 	"421117": {
 		"nickname": "US Post Office (Greenville)"
-	},
-	"437283": {
-		"is_ex": true
 	},
 	"446573": {
 		"nickname": "St. John&#039;s Lutheran Church (Millvale)"
 	},
 	"459731": {
-		"additional_terms": "entrance",
-		"additional_information": "Be aware that the property owners across the street from this gym are not comfortable with players close to their property.  Please be polite and try to avoid their property when raiding here.  Further, this gym is *not* actually in the park and therefore not EX-eligible."
-	},
-	"478777": {
-		"is_ex": true
+		"additionalTerms": "entrance",
+		"additionalInformation": "Be aware that the property owners across the street from this gym are not comfortable with players close to their property.  Please be polite and try to avoid their property when raiding here.  Further, this gym is *not* actually in the park and therefore not EX-eligible."
 	},
 	"485619": {
 		"nickname": "US Post Office (Koppel)"
-	},
-	"497189": {
-		"is_ex": true
 	},
 	"504230": {
 		"nickname": "Baptist Church (McDonald)"
 	},
 	"518477": {
-		"additional_information": "Sunday Mass times: 8:30 & 11:00 am"
+		"additionalInformation": "Sunday Mass times: 8:30 & 11:00 am"
 	},
-	"526650": {
-		"is_ex": true
+	"524148": {
+		"hasExTag": true
 	},
 	"544314": {
-		"additional_information": "This location is at Slater Funeral Home. Please be respectful of any services that may be taking place."
+		"additionalInformation": "This location is at Slater Funeral Home. Please be respectful of any services that may be taking place."
 	},
 	"547784": {
 		"nickname": "Zion Lutheran Church (Brentwood)"
@@ -231,60 +178,30 @@
 		"nickname": "Good Shepherd Catholic Parish (Braddock)"
 	},
 	"552187": {
-		"additional_terms": "carnegie park",
-		"is_ex": true
+		"additionalTerms": "carnegie park"
 	},
 	"563490": {
-		"additional_information": "This is a volunteer fire department.  They have asked that we *not block* entrances and exits from their lot.  Consider parking in the lower lot that serves the Port Authority station."
-	},
-	"570670": {
-		"is_ex": true
+		"additionalInformation": "This is a volunteer fire department.  They have asked that we *not block* entrances and exits from their lot.  Consider parking in the lower lot that serves the Port Authority station."
 	},
 	"600821": {
-		"additional_information": "Park across the street at the Eat’n’Park."
-	},
-	"601623": {
-		"is_ex": true
+		"additionalInformation": "Park across the street at the Eat’n’Park."
 	},
 	"602591": {
-		"is_ex": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"605347": {
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
 	},
-	"606820": {
-		"is_ex": true
-	},
-	"613590": {
-		"is_ex": true
-	},
-	"623129": {
-		"is_ex": true
-	},
-	"623943": {
-		"is_ex": true
-	},
-	"652780": {
-		"is_ex": true
-	},
-	"653733": {
-		"is_ex": true
-	},
-	"665080": {
-		"is_ex": true
-	},
 	"675113": {
 		"nickname": "American Legion Post 82 (Carnegie)",
-		"additional_information" : "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
+		"additionalInformation" : "Please avoid the Legion's property.  Park somewhere else and raid from the sidewalk across the street."
 	},
 	"677808": {
 		"nickname": "Oakland Mural (Sorrento's)"
 	},
-	"678006": {
-		"is_ex": true
-	},
 	"680273": {
-		"additional_information": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
+		"additionalInformation": "Use caution raiding here!\n\nThis area has indicated that they do not want others here.  Additionally they've occasionally put up speed bumps and signs to deter people from driving faster than 5 mph."
 	},
 	"702837": {
 		"nickname": "Calvary Baptist Church (Middle Hill)"
@@ -292,38 +209,23 @@
 	"703842": {
 		"nickname": "The Church of Jesus Christ of Latter-Day Saints (Franklin Park)"
 	},
-	"710859": {
-		"is_ex": true
-	},
-	"730965": {
-		"is_ex": true
-	},
 	"736505": {
-		"additional_information": "This gym is on private property. Please access it from the road nearby."
-	},
-	"755634": {
-		"is_ex": true
-	},
-	"773397": {
-		"is_ex": true
+		"additionalInformation": "This gym is on private property. Please access it from the road nearby."
 	},
 	"792701": {
 		"nickname": "Holy Trinity Lutheran Church (Beaver)"
-	},
-	"803019": {
-		"is_ex": true
 	},
 	"804100": {
 		"nickname": "First Presbyterian Church (Murrysville)"
 	},
 	"808150": {
-		"additional_terms": "red door"
+		"additionalTerms": "red door"
 	},
 	"813529": {
-		"additional_information": "Be aware there is no parking directly at the trail entrance but you may park on Willow Hedge Drive."
+		"additionalInformation": "Be aware there is no parking directly at the trail entrance but you may park on Willow Hedge Drive."
 	},
 	"818406": {
-		"additional_terms": "hyp"
+		"additionalTerms": "hyp"
 	},
 	"818975": {
 		"nickname": "US Post Office (Crawford-Roberts)"
@@ -331,24 +233,11 @@
 	"843407": {
 		"nickname": "Zion Lutheran Church (Penn Hills)"
 	},
-	"846620": {
-		"is_ex": true
-	},
 	"859601": {
 		"nickname": "White Park (Easr Parkway)"
 	},
-	"859964": {
-		"is_ex": true
-	},
-	"891158": {
-		"is_ex": true
-	},
 	"909032": {
-		"nickname": "Scott Township War Memorial (Scott Park Playground)",
-		"is_ex": true
-	},
-	"913715": {
-		"is_ex": true
+		"nickname": "Scott Township War Memorial (Scott Park Playground)"
 	},
 	"924214": {
 		"nickname": "Calvary United Methodist Church (Chateau)"
@@ -356,35 +245,20 @@
 	"936692": {
 		"nickname": "Veterans Memorial (Robinson / McKees Rocks)"
 	},
-	"937825": {
-		"is_ex": true
-	},
 	"950884": {
 		"nickname": "Trinity Lutheran Church (Mount Oliver)"
-	},
-	"970589": {
-		"is_ex": true
 	},
 	"980042": {
 		"nickname": "Veterans Memorial (Munhall)"
 	},
 	"980883": {
-		"additional_terms": "dino"
-	},
-	"989312": {
-		"is_ex": true
-	},
-	"1021018": {
-		"is_ex": true
-	},
-	"1021108": {
-		"is_ex": true
+		"additionalTerms": "dino"
 	},
 	"1033578": {
 		"nickname": "Trinity Lutheran Church (Verona)"
 	},
 	"1039497": {
-		"additional_information": "Please don't stand in front of the small door by the bike rack; it is a fire exit and Trader Joe's asked us to keep it clear."
+		"additionalInformation": "Please don't stand in front of the small door by the bike rack; it is a fire exit and Trader Joe's asked us to keep it clear."
 	},
 	"1041192": {
 		"nickname": "World War Memorial (Elliott)"
@@ -392,36 +266,23 @@
 	"1041410": {
 		"nickname": "American Legion Post 490 (Castle Shannon)"
 	},
-	"1048595": {
-		"is_ex": true
-	},
 	"1052243": {
-		"additional_information": "To avoid the building owners removing this gym, please park near the end of the lot and do not block the stairs while raiding."
-	},
-	"1054310": {
-		"is_ex": true
+		"additionalInformation": "To avoid the building owners removing this gym, please park near the end of the lot and do not block the stairs while raiding."
 	},
 	"1063640": {
-		"additional_information": "Please don't stand inside the cemetery to raid this gym - the owners don't appreciate it.  Please stand on the public sidewalk."
+		"additionalInformation": "Please don't stand inside the cemetery to raid this gym - the owners don't appreciate it.  Please stand on the public sidewalk."
 	},
 	"1064669": {
-		"additional_information": "Do **not** park at Ralph's.  Park at the Sheetz."
-	},
-	"1067618": {
-		"is_ex": true
+		"additionalInformation": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
 	"1074432": {
-		"is_ex": true
+		"hasExTag": true
 	},
 	"1083060": {
-		"additional_information": "This gym is on private property and those without a legitimate reason to be on the property will likely be asked to leave by security."
-	},
-	"1083876": {
-		"is_ex": true
+		"additionalInformation": "This gym is on private property and those without a legitimate reason to be on the property will likely be asked to leave by security."
 	},
 	"1095010": {
-		"additional_terms": "pool",
-		"is_ex": true
+		"additionalTerms": "pool"
 	},
 	"1101695": {
 		"nickname": "Apostolic Faith Church (Swissvale)"
@@ -430,44 +291,26 @@
 		"nickname": "Apostolic Faith Church (Rankin)"
 	},
 	"1112937": {
-		"additional_terms": "jcc"
-	},
-	"1130272": {
-		"is_ex": true
-	},
-	"1159210": {
-		"is_ex": true
+		"additionalTerms": "jcc"
 	},
 	"1159296": {
-		"nickname": "Bayne Park",
-		"is_ex": true
-	},
-	"1169030": {
-		"is_ex": true
-	},
-	"1169680": {
-		"is_ex": true
+		"nickname": "Bayne Park"
 	},
 	"1170821": {
 		"nickname": "US Post Office (Elderton)"
 	},
 	"1177012": {
-		"additional_information": "This church has requested that everyone park next door at the Hampton Inn."
+		"additionalInformation": "This church has requested that everyone park next door at the Hampton Inn."
 	},
 	"1190681": {
-		"is_ex": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1200774": {
-		"additional_information": "The Post Office does *not* appreciate parking in their lot for raids.  Please be considerate."
-	},
-	"1200967": {
-		"is_ex": true
+		"additionalInformation": "The Post Office does *not* appreciate parking in their lot for raids.  Please be considerate."
 	},
 	"1204050": {
 		"nickname": "Les Getz Memorial Park (Church St)"
-	},
-	"1204633": {
-		"is_ex": true
 	},
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
@@ -475,62 +318,23 @@
 	"1207208": {
 		"nickname": "Pittsburgh Post Office (Ross)"
 	},
-	"2456356": {
-		"is_ex": true
-	},
-	"2456360": {
-		"is_ex": true
-	},
-	"2456368": {
-		"is_ex": true
-	},
-	"2456374": {
-		"is_ex": true
-	},
-	"2456393": {
-		"is_ex": true
-	},
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
 	},
-	"2456432": {
-		"is_ex": true
-	},
-	"2456509": {
-		"is_ex": true
-	},
 	"2456511": {
 		"nickname": "St. Ferd"
-	},
-	"2456535": {
-		"is_ex": true
-	},
-	"2456609": {
-		"is_ex": true
-	},
-	"2456611": {
-		"is_ex": true
-	},
-	"2456691": {
-		"is_ex": true
-	},
-	"2456776": {
-		"is_ex": true
-	},
-	"2456778": {
-		"is_ex": true
 	},
 	"2456796": {
 		"nickname": "Trinity Lutheran Church (Franklin Park)"
 	},
 	"2456810": {
-		"additional_information": "Use caution raiding here and do not loiter - people have been warned raiding here in the past (including threatening to call the police)!"
+		"additionalInformation": "Use caution raiding here and do not loiter - people have been warned raiding here in the past (including threatening to call the police)!"
 	},
 	"2949694": {
 		"nickname": "US Post Office (Prospect)"
 	},
 	"2949720": {
-		"additional_information": "Neighbors do not appreciate raiding at this gym. Many trainers have been approached and asked to leave. Road is narrow, and pets and livestock are endangered by traffic. Avoid after dark."
+		"additionalInformation": "Neighbors do not appreciate raiding at this gym. Many trainers have been approached and asked to leave. Road is narrow, and pets and livestock are endangered by traffic. Avoid after dark."
 	},
 	"3096021": {
 		"nickname": "Our Lady Queen of Peace (Vandergrift)"
@@ -546,9 +350,6 @@
 	},
 	"3096195": {
 		"nickname": "War Memorial (Brackenridge)"
-	},
-	"3096246": {
-		"is_ex": true
 	},
 	"3096270": {
 		"nickname": "Community Library of Allegheny Valley (Harrison Branch)"
@@ -571,26 +372,14 @@
 	"3549323": {
 		"nickname": "Old Main (Washington)"
 	},
-	"5389575": {
-		"is_ex": true
-	},
 	"5389618": {
 		"nickname": "Boyce Mayview Park (Morton Rd)"
 	},
 	"5389831": {
 		"nickname": "Veterans Memorial (Clairton)"
 	},
-	"5389890": {
-		"is_ex": true
-	},
-	"5389928": {
-		"is_ex": true
-	},
-	"5390182": {
-		"is_ex": true
-	},
 	"5390361": {
-		"additional_information": "The owner has had issues with players on the property so please try to stay off of it in order to avoid conflict with authorities."
+		"additionalInformation": "The owner has had issues with players on the property so please try to stay off of it in order to avoid conflict with authorities."
 	},
 	"5390266": {
 		"nickname": "US Post Office (Elrama)"
@@ -603,7 +392,7 @@
 	},
 	"7432479": {
 		"nickname": "Forbes Road (Hoss's)",
-		"additional_information": "Cell service tends to be very poor at this gym unless you are on AT&T's network."
+		"additionalInformation": "Cell service tends to be very poor at this gym unless you are on AT&T's network."
 	},
 	"7434067": {
 		"nickname": "Forbes Road (Madero Cantina)"
@@ -638,39 +427,17 @@
 	"9535132": {
 		"nickname": "Second Baptist Church (Mt Pleasant)"
 	},
-	"9535213": {
-		"is_ex": true
-	},
 	"10871762": {
 		"nickname": "US Post Office (Larimer)"
 	},
 	"10872604": {
 		"nickname": "US Post Office (Coulter)"
 	},
-	"10872631": {
-		"is_ex": true
-	},
 	"10872739": {
 		"nickname": "Toll House (Greensburg)"
 	},
 	"10872886": {
-		"additional_information": "This gym has very poor phone service. AT&T is the only one that consistently works here.",
-		"is_ex": true
-	},
-	"10872879": {
-		"is_ex": true
-	},
-	"10872892": {
-		"is_ex": true
-	},
-	"10872908": {
-		"is_ex": true
-	},
-	"10873058": {
-		"is_ex": true
-	},
-	"10873060": {
-		"is_ex": true
+		"additionalInformation": "This gym has very poor phone service. AT&T is the only one that consistently works here."
 	},
 	"11639187": {
 		"nickname": "Church of the Nazarene (New Brighton)"
@@ -735,41 +502,27 @@
 	"26530886": {
 		"nickname": "Buttermilk Falls Natural Area (Beaver Falls)"
 	},
-	"26874198": {
-		"is_ex": true
-	},
-	"26874189": {
-		"is_ex": true
-	},
-	"26874192": {
-		"is_ex": true
-	},
-	"26874241": {
-		"is_ex": true
-	},
 	"33192061": {
 		"nickname": "Trinity Lutheran Church (Connellsville)"
 	},
 	"40660896": {
-		"additional_terms": "sp00ky"
+		"additionalTerms": "sp00ky"
 	},
 	"40660904": {
-		"additional_information": "This location is in private property. We have been asked not to be on the premises.",
-		"additional_terms": "ultrasp00ky"
+		"additionalInformation": "This location is in private property. We have been asked not to be on the premises.",
+		"additionalTerms": "ultrasp00ky"
 	},
 	"45249305": {
 		"nickname": "First United Methodist Church (Brookville)"
 	},
 	"46954466": {
-		"additional_information": "Please be mindful this is a small parking lot with two businesses that are open. You may want to park off-site and walk to it so we don’t get banned from the lot or they have the gym removed."
+		"additionalInformation": "Please be mindful this is a small parking lot with two businesses that are open. You may want to park off-site and walk to it so we don’t get banned from the lot or they have the gym removed."
 	},
 	"48976304": {
-		"nickname": "Sprint Store (Century III Mall)",
-		"is_ex": true
+		"nickname": "Sprint Store (Century III Mall)"
 	},
 	"49000737": {
-		"nickname": "Starbucks (Waterfront)",
-		"is_ex": true
+		"nickname": "Starbucks (Waterfront)"
 	},
 	"49020401": {
 		"nickname": "Christ Episcopal Church (Oil City)"
@@ -790,63 +543,45 @@
 		"nickname": "First Baptist Church (Transfer)"
 	},
 	"49058437": {
-		"nickname": "Starbucks (Forbes / Craig)",
-		"is_ex": true
+		"nickname": "Starbucks (Forbes / Craig)"
 	},
 	"49080427": {
 		"nickname": "Starbucks (Green Tree)",
-		"additional_information": "This location has *very limited* parking.",
-		"is_ex": true
+		"additionalInformation": "This location has *very limited* parking."
 	},
 	"49080428": {
-		"nickname": "Starbucks (Market Square)",
-		"is_ex": true
+		"nickname": "Starbucks (Market Square)"
 	},
 	"49102837": {
 		"nickname": "Sprint Store (Fifth / Smithfield)",
-		"additional_terms": "kaufmanns clock",
-		"is_ex": true
+		"additionalTerms": "kaufmanns clock"
 	},
 	"49102839": {
-		"nickname": "Sprint Store (Market Square)",
-		"is_ex": true
+		"nickname": "Sprint Store (Market Square)"
 	},
 	"49119082": {
 		"nickname": "Forbes Road (Boswell)"
 	},
 	"49188248": {
-		"nickname": "Starbucks (Siebert / McKnight)",
-		"is_ex": true
+		"nickname": "Starbucks (Siebert / McKnight)"
 	},
 	"49205837": {
-		"nickname": "Sprint Store (Penn Center East)",
-		"is_ex": true
+		"nickname": "Sprint Store (Penn Center East)"
 	},
 	"49205838": {
-		"nickname": "Sprint Store (Monroeville Mall)",
-		"is_ex": true
+		"nickname": "Sprint Store (Monroeville Mall)"
 	},
 	"49233728": {
-		"nickname": "Starbucks (McKnight Target)",
-		"is_ex": true
+		"nickname": "Starbucks (McKnight Target)"
 	},
 	"49308704": {
-		"nickname": "Sprint Store (Westmoreland Mall)",
-		"is_ex": true
-	},
-	"49366176": {
-		"is_ex": true
+		"nickname": "Sprint Store (Westmoreland Mall)"
 	},
 	"49397275": {
-		"nickname": "Sprint Store (Washington)",
-		"is_ex": true
+		"nickname": "Sprint Store (Washington)"
 	},
 	"49397276": {
-		"nickname": "Starbucks (Washington)",
-		"is_ex": true
-	},
-	"49404610": {
-		"is_ex": true
+		"nickname": "Starbucks (Washington)"
 	},
 	"49438660": {
 		"nickname": "Church of Christ (Fairview)"
@@ -855,40 +590,34 @@
 		"nickname": "Calvary Baptist Church (Waynesburg)"
 	},
 	"49548047": {
-		"nickname": "Starbucks (Canonsburg)",
-		"is_ex": true
+		"nickname": "Starbucks (Canonsburg)"
 	},
 	"49635912": {
-		"nickname": "Starbucks (Tarentum)",
-		"is_ex": true
+		"nickname": "Starbucks (Tarentum)"
 	},
 	"49404609": {
-		"additional_information": "Be prepared for a 1 hour hike to access this gym."
+		"additionalInformation": "Be prepared for a 1 hour hike to access this gym."
 	},
 	"49404611": {
-		"additional_information": "Be prepared for a 1 hour hike to access this gym."
-	},
-	"194f883f34544d9c9afe2fe964777aad.16": {
-		"is_ex": true
+		"additionalInformation": "Be prepared for a 1 hour hike to access this gym."
 	},
 	"895cee3fad784837a9d5c642d2386d95.16": {
-		"additional_information": "This location is a T stop and the only access points are from a train or down a steep set of stairs.  Please be careful getting to this location."
+		"additionalInformation": "This location is a T stop and the only access points are from a train or down a steep set of stairs.  Please be careful getting to this location."
 	},
 	"b5b9872c05b744ba95de9b05df69566f.16": {
-		"additional_information": "Please be courteous to shoppers and do not obstruct the walkways. Mall security has been known to have issues with that at this gym."
-	},
-	"bbc29f922e43454f95474d04199c0f5c.12": {
-		"is_ex": true
+		"additionalInformation": "Please be courteous to shoppers and do not obstruct the walkways. Mall security has been known to have issues with that at this gym."
 	},
 	"c1b674a2d45d4c30864040c671bebd70.16": {
-		"additional_information": "You cannot drive directly to this gym - it is on a walking trail.",
-		"is_ex": true
+		"additionalInformation": "You cannot drive directly to this gym - it is on a walking trail."
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
-		"additional_information": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
-		"is_ex": true
+		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail."
 	},
 	"fa2ee47d8848435d856b3b9391dd2184.16": {
-		"additional_information": "The owner of the business (Iron Factory) prohibits non patrons from parking in his lot. He has recently added signs stipulating violators are subject to a $300 fine so raid at your own risk!"
+		"additionalInformation": "The owner of the business (Iron Factory) prohibits non patrons from parking in his lot. He has recently added signs stipulating violators are subject to a $300 fine so raid at your own risk!"
+	},
+	"fd727434709f4da989dc6e0293ac7679.16": {
+		"hasExTag": true,
+		"hasHostedEx": true
 	}
 }
