@@ -133,6 +133,12 @@
 	"257629": {
 		"nickname": "Mayernik Park Fountain"
 	},
+	"273168": {
+		"hasExTag": true
+	},
+	"281269": {
+		"hasExTag": true
+	},
 	"284521": {
 		"additionalInformation": "Weekend Mass times: Saturday - 4PM & Sunday - 7:30am, 9:30 am, & 11:30 am"
 	},
@@ -141,6 +147,9 @@
 	},
 	"292588": {
 		"nickname": "Our Lady Queen of Peace (East Allegheny)"
+	},
+	"295546": {
+		"hasExTag": true
 	},
 	"304175": {
 		"hasExTag": true
@@ -212,6 +221,9 @@
 		"nickname": "US Post Office (Greenville)"
 	},
 	"422137": {
+		"hasExTag": true
+	},
+	"444359": {
 		"hasExTag": true
 	},
 	"446573": {
@@ -377,6 +389,9 @@
 	"950884": {
 		"nickname": "Trinity Lutheran Church (Mount Oliver)"
 	},
+	"952320": {
+		"hasExTag": true
+	},
 	"979603": {
 		"hasExTag": true
 	},
@@ -420,6 +435,9 @@
 		"additionalInformation": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
 	"1074432": {
+		"hasExTag": true
+	},
+	"1080944": {
 		"hasExTag": true
 	},
 	"1083060": {
@@ -576,6 +594,9 @@
 	"5389618": {
 		"nickname": "Boyce Mayview Park (Morton Rd)"
 	},
+	"5389766": {
+		"hasExTag": true
+	},
 	"5389831": {
 		"nickname": "Veterans Memorial (Clairton)"
 	},
@@ -724,6 +745,12 @@
 	"26530886": {
 		"nickname": "Buttermilk Falls Natural Area (Beaver Falls)"
 	},
+	"26874189": {
+		"hasExTag": true
+	},
+	"26874192": {
+		"hasExTag": true
+	},
 	"26874241": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -822,6 +849,15 @@
 	"49397276": {
 		"nickname": "Starbucks (Washington)"
 	},
+	"49404609": {
+		"hasExTag": true
+	},
+	"49404610": {
+		"hasExTag": true
+	},
+	"49404611": {
+		"hasExTag": true
+	},
 	"49438660": {
 		"nickname": "Church of Christ (Fairview)"
 	},
@@ -873,9 +909,19 @@
 		"hasExTag": true
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
-		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail."
+		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
+		"hasExTag": true
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
+		"hasExTag": true
+	},
+	"e8d7813999ea49e6a8b5e0a97b10b97a.16": {
+		"hasExTag": true
+	},
+	"f2d659ba623b4b9b92a1d389d5a4c1ec.16": {
+		"hasExTag": true
+	},
+	"f497c6ce865d48ea848dc5c7fc1ea7e2.16": {
 		"hasExTag": true
 	},
 	"fa2ee47d8848435d856b3b9391dd2184.16": {
