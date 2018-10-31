@@ -289,6 +289,12 @@
 	"605347": {
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
 	},
+	"623129": {
+		"hasExTag": true
+	},
+	"652780": {
+		"hasExTag": true
+	},
 	"653733": {
 		"hasExTag": true
 	},
@@ -656,6 +662,12 @@
 	},
 	"8070218": {
 		"nickname": "Veterans Memorial (Greensburg)"
+	},
+	"8070242": {
+		"hasExTag": true
+	},
+	"8070244": {
+		"hasExTag": true
 	},
 	"8192057": {
 		"nickname": "Calvary Baptist Church (Washington)"
