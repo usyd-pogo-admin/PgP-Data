@@ -39,6 +39,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"58104": {
+		"hasExTag": true
+	},
 	"62253": {
 		"hasExTag": true,
 		"hasHostedEx": true
@@ -65,6 +68,9 @@
 	"111908": {
 		"nickname": "Memorial Garden (Beaver)"
 	},
+	"116147": {
+		"hasExTag": true
+	},
 	"121314": {
 		"nickname": "United Presbyterian Church (West Sunbury)"
 	},
@@ -77,6 +83,9 @@
 	},
 	"140321": {
 		"additionalInformation": "Do **not** stand in front of the entrance to the pet store - the owner gets upset!"
+	},
+	"155992": {
+		"hasExTag": true
 	},
 	"162104": {
 		"nickname": "Church of Christ (Brookville)"
@@ -103,11 +112,17 @@
 	"215730": {
 		"hasExTag": true
 	},
+	"218566": {
+		"hasExTag": true
+	},
 	"219838": {
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
 	"230815": {
+		"hasExTag": true
+	},
+	"271673": {
 		"hasExTag": true
 	},
 	"283097": {
@@ -176,7 +191,8 @@
 		"hasExTag": true
 	},
 	"348147": {
-		"nickname": "Les Getz Memorial Park (Les Getz Dr)"
+		"nickname": "Les Getz Memorial Park (Les Getz Dr)",
+		"hasExTag": true
 	},
 	"358377": {
 		"nickname": "Good Shepherd Catholic Parish (Braddock Hills)"
@@ -194,6 +210,9 @@
 		"nickname": "World War Memorial (Scott Park Pool)",
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"395904": {
+		"hasExTag": true
 	},
 	"397094": {
 		"hasExTag": true
@@ -236,6 +255,9 @@
 	"466378": {
 		"hasExTag": true
 	},
+	"478777": {
+		"hasExTag": true
+	},
 	"485619": {
 		"nickname": "US Post Office (Koppel)"
 	},
@@ -257,6 +279,9 @@
 	},
 	"544314": {
 		"additionalInformation": "This location is at Slater Funeral Home. Please be respectful of any services that may be taking place."
+	},
+	"547443": {
+		"hasExTag": true
 	},
 	"547784": {
 		"nickname": "Zion Lutheran Church (Brentwood)"
@@ -289,7 +314,13 @@
 	"605347": {
 		"nickname": "Carnegie Library of Pittsburgh (Beechview)"
 	},
+	"605772": {
+		"hasExTag": true
+	},
 	"623129": {
+		"hasExTag": true
+	},
+	"623943": {
 		"hasExTag": true
 	},
 	"652780": {
@@ -320,6 +351,9 @@
 	},
 	"703842": {
 		"nickname": "The Church of Jesus Christ of Latter-Day Saints (Franklin Park)"
+	},
+	"710859": {
+		"hasExTag": true
 	},
 	"730965": {
 		"hasExTag": true,
@@ -414,6 +448,9 @@
 		"hasExTag": true
 	},
 	"989312": {
+		"hasExTag": true
+	},
+	"1021018": {
 		"hasExTag": true
 	},
 	"1021108": {
@@ -535,6 +572,9 @@
 		"nickname": "St. Ferd"
 	},
 	"2456535": {
+		"hasExTag": true
+	},
+	"2456544": {
 		"hasExTag": true
 	},
 	"2456609": {
@@ -832,9 +872,7 @@
 		"nickname": "Forbes Road (Boswell)"
 	},
 	"49188248": {
-		"nickname": "Starbucks (Siebert / McKnight)",
-		"hasExTag": true,
-		"hasHostedEx": true
+		"nickname": "Starbucks (Siebert / McKnight)"
 	},
 	"49205837": {
 		"nickname": "Sprint Store (Penn Center East)",
@@ -891,6 +929,9 @@
 	"49404611": {
 		"additionalInformation": "Be prepared for a 1 hour hike to access this gym."
 	},
+	"49849707": {
+		"hasExTag": true
+	},
 	"49850446": {
 		"hasExTag": true
 	},
@@ -904,6 +945,9 @@
 		"hasExTag": true
 	},
 	"3b7c4affebb14f939358de456b2beaa6.16": {
+		"hasExTag": true
+	},
+	"6631bc95d57742cc98ecda160d22c301.16": {
 		"hasExTag": true
 	},
 	"895cee3fad784837a9d5c642d2386d95.16": {
