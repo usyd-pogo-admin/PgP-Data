@@ -304,6 +304,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"596907": {
+		"hasExTag": true
+	},
 	"600821": {
 		"additionalInformation": "Park across the street at the Eat’n’Park."
 	},
@@ -480,6 +483,9 @@
 	"1064669": {
 		"additionalInformation": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
+	"1067618": {
+		"hasExTag": true
+	},
 	"1074432": {
 		"hasExTag": true
 	},
@@ -509,6 +515,9 @@
 	"1130272": {
 		"hasExTag": true
 	},
+	"1147239": {
+		"hasExTag": true
+	},
 	"1159210": {
 		"hasExTag": true
 	},
@@ -516,6 +525,9 @@
 		"nickname": "Bayne Park",
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"1169680": {
+		"hasExTag": true
 	},
 	"1170821": {
 		"nickname": "US Post Office (Elderton)"
