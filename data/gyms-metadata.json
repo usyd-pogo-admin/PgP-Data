@@ -915,12 +915,14 @@
 		"nickname": "Starbucks (Washington)"
 	},
 	"49404609": {
+		"additionalInformation": "Be prepared for a 1 hour hike to access this gym.",
 		"hasExTag": true
 	},
 	"49404610": {
 		"hasExTag": true
 	},
 	"49404611": {
+		"additionalInformation": "Be prepared for a 1 hour hike to access this gym.",
 		"hasExTag": true
 	},
 	"49438660": {
@@ -934,12 +936,6 @@
 	},
 	"49635912": {
 		"nickname": "Starbucks (Tarentum)"
-	},
-	"49404609": {
-		"additionalInformation": "Be prepared for a 1 hour hike to access this gym."
-	},
-	"49404611": {
-		"additionalInformation": "Be prepared for a 1 hour hike to access this gym."
 	},
 	"49849707": {
 		"hasExTag": true
