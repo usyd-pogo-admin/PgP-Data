@@ -542,6 +542,9 @@
 	"1200774": {
 		"additionalInformation": "The Post Office does *not* appreciate parking in their lot for raids.  Please be considerate."
 	},
+	"1200967": {
+		"hasExTag": true
+	},
 	"1204050": {
 		"nickname": "Les Getz Memorial Park (Church St)"
 	},
@@ -977,6 +980,9 @@
 	},
 	"c4060eb27aba43e4adc8ed3174dbd7bf.16": {
 		"additionalInformation": "Directions: Park in the Duff Park parking lot off of School Road. This gym is about 1/4 mile walk down the bike trail.",
+		"hasExTag": true
+	},
+	"d23a46f42440402bbbcb3e828729a6b3.16": {
 		"hasExTag": true
 	},
 	"e4fb121bb28444a380b5bc92a1f0a946.16": {
