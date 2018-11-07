@@ -57,10 +57,12 @@
 		"additionalTerms": "highfield"
 	},
 	"87538": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"88506": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"104011": {
 		"hasExTag": true
@@ -79,7 +81,8 @@
 		"hasHostedEx": true
 	},
 	"137623": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"140321": {
 		"additionalInformation": "Do **not** stand in front of the entrance to the pet store - the owner gets upset!"
@@ -110,7 +113,8 @@
 		"additionalInformation": "Please be respectful of church services, especially on Sunday mornings between 8 am and noon."
 	},
 	"215730": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"218566": {
 		"hasExTag": true
@@ -243,7 +247,8 @@
 		"hasExTag": true
 	},
 	"444359": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"446573": {
 		"nickname": "St. John&#039;s Lutheran Church (Millvale)"
@@ -267,6 +272,10 @@
 	"504230": {
 		"nickname": "Baptist Church (McDonald)"
 	},
+	"515463": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
 	"518477": {
 		"additionalInformation": "Sunday Mass times: 8:30 & 11:00 am"
 	},
@@ -276,6 +285,9 @@
 	"526650": {
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"544289": {
+		"hasExTag": true
 	},
 	"544314": {
 		"additionalInformation": "This location is at Slater Funeral Home. Please be respectful of any services that may be taking place."
@@ -291,7 +303,8 @@
 	},
 	"552187": {
 		"additionalTerms": "carnegie park",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"563490": {
 		"additionalInformation": "This is a volunteer fire department.  They have asked that we *not block* entrances and exits from their lot.  Consider parking in the lower lot that serves the Port Authority station."
@@ -299,6 +312,9 @@
 	"563532": {
 		"hasExTag": true,
 		"hasHostedEx": true
+	},
+	"569946": {
+		"hasExTag": true
 	},
 	"570670": {
 		"hasExTag": true,
@@ -309,6 +325,9 @@
 	},
 	"600821": {
 		"additionalInformation": "Park across the street at the Eat’n’Park."
+	},
+	"601775": {
+		"hasExTag": true
 	},
 	"602591": {
 		"hasExTag": true,
@@ -324,13 +343,15 @@
 		"hasExTag": true
 	},
 	"623943": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"652780": {
 		"hasExTag": true
 	},
 	"653733": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"675113": {
 		"nickname": "American Legion Post 82 (Carnegie)",
@@ -381,8 +402,12 @@
 	"792701": {
 		"nickname": "Holy Trinity Lutheran Church (Beaver)"
 	},
-	"803019": {
+	"794782": {
 		"hasExTag": true
+	},
+	"803019": {
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"804100": {
 		"nickname": "First Presbyterian Church (Murrysville)"
@@ -411,10 +436,17 @@
 	"859601": {
 		"nickname": "White Park (Easr Parkway)"
 	},
+	"869936": {
+		"hasExTag": true
+	},
 	"870716": {
 		"additionalInformation": "Please be cautious while parking in the area for this gym. There has been at least one resident that has been unhappy with the temporary PoGo parking."
 	},
 	"881434": {
+		"hasExTag": true,
+		"hasHostedEx": true
+	},
+	"886152": {
 		"hasExTag": true
 	},
 	"909032": {
@@ -447,6 +479,9 @@
 	"980883": {
 		"additionalTerms": "dino"
 	},
+	"981821": {
+		"hasExTag": true
+	},
 	"983098": {
 		"hasExTag": true
 	},
@@ -466,7 +501,8 @@
 		"additionalInformation": "Please don't stand in front of the small door by the bike rack; it is a fire exit and Trader Joe's asked us to keep it clear."
 	},
 	"1041192": {
-		"nickname": "World War Memorial (Elliott)"
+		"nickname": "World War Memorial (Elliott)",
+		"hasExTag": true
 	},
 	"1041410": {
 		"nickname": "American Legion Post 490 (Castle Shannon)"
@@ -484,12 +520,16 @@
 		"additionalInformation": "Do **not** park at Ralph's.  Park at the Sheetz."
 	},
 	"1067618": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1074432": {
 		"hasExTag": true
 	},
 	"1080944": {
+		"hasExTag": true
+	},
+	"1082035": {
 		"hasExTag": true
 	},
 	"1083060": {
@@ -501,7 +541,8 @@
 	},
 	"1095010": {
 		"additionalTerms": "pool",
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1101695": {
 		"nickname": "Apostolic Faith Church (Swissvale)"
@@ -526,6 +567,9 @@
 		"hasExTag": true,
 		"hasHostedEx": true
 	},
+	"1167264": {
+		"hasExTag": true
+	},
 	"1169680": {
 		"hasExTag": true
 	},
@@ -549,7 +593,8 @@
 		"nickname": "Les Getz Memorial Park (Church St)"
 	},
 	"1204633": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"1204855": {
 		"nickname": "Bridgeville Boro Fire Department"
@@ -570,7 +615,8 @@
 		"hasHostedEx": true
 	},
 	"2456374": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"2456404": {
 		"nickname": "Calvary Baptist Church (Allison Park)"
@@ -659,7 +705,8 @@
 		"nickname": "Boyce Mayview Park (Morton Rd)"
 	},
 	"5389766": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"5389831": {
 		"nickname": "Veterans Memorial (Clairton)"
@@ -740,7 +787,8 @@
 		"nickname": "Toll House (Greensburg)"
 	},
 	"10872879": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"10872881": {
 		"hasExTag": true
@@ -816,7 +864,8 @@
 		"nickname": "Buttermilk Falls Natural Area (Beaver Falls)"
 	},
 	"26874189": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"26874192": {
 		"hasExTag": true
@@ -950,11 +999,15 @@
 	"49802645": {
 		"hasExTag": true
 	},
+	"49844546": {
+		"hasExTag": true
+	},
 	"1047ca318fb14469ab46933e7df9c3c4.16": {
 		"hasExTag": true
 	},
 	"3647f779c20b4ae6acfe38f95f337c77.16": {
-		"hasExTag": true
+		"hasExTag": true,
+		"hasHostedEx": true
 	},
 	"3b7c4affebb14f939358de456b2beaa6.16": {
 		"hasExTag": true
@@ -966,6 +1019,9 @@
 		"additionalInformation": "This location is a T stop and the only access points are from a train or down a steep set of stairs.  Please be careful getting to this location."
 	},
 	"8ceb66f20e654d91a1b86c8dcb744883.16": {
+		"hasExTag": true
+	},
+	"98790fe73ff84628aee83fc635c9d748.16": {
 		"hasExTag": true
 	},
 	"b5b9872c05b744ba95de9b05df69566f.16": {
